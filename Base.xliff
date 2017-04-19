@@ -1,0 +1,3895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blu-ray Player/Base.lproj/MainMenu.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="0B8-LJ-tVE.title">
+        <source>Stop</source>
+        <note>Class = "NSMenuItem"; title = "Stop"; ObjectID = "0B8-LJ-tVE";</note>
+      </trans-unit>
+      <trans-unit id="0It-dh-gzM.title">
+        <source>Skip Back 5 seconds</source>
+        <note>Class = "NSMenuItem"; title = "Skip Back 5 seconds"; ObjectID = "0It-dh-gzM";</note>
+      </trans-unit>
+      <trans-unit id="1Xt-HY-uBw.title">
+        <source>%@</source>
+        <note>Class = "NSMenuItem"; title = "%@"; ObjectID = "1Xt-HY-uBw";</note>
+      </trans-unit>
+      <trans-unit id="3HP-xY-Ccw.title">
+        <source>High</source>
+        <note>Class = "NSMenuItem"; title = "High"; ObjectID = "3HP-xY-Ccw";</note>
+      </trans-unit>
+      <trans-unit id="4sb-4s-VLi.title">
+        <source>Quit %@</source>
+        <note>Class = "NSMenuItem"; title = "Quit %@"; ObjectID = "4sb-4s-VLi";</note>
+      </trans-unit>
+      <trans-unit id="4vO-zF-N0D.title">
+        <source>Features</source>
+        <note>Class = "NSMenu"; title = "Features"; ObjectID = "4vO-zF-N0D";</note>
+      </trans-unit>
+      <trans-unit id="4xv-sS-tMg.title">
+        <source>Secondary Video</source>
+        <note>Class = "NSMenuItem"; title = "Secondary Video"; ObjectID = "4xv-sS-tMg";</note>
+      </trans-unit>
+      <trans-unit id="5kV-Vb-QxS.title">
+        <source>About %@</source>
+        <note>Class = "NSMenuItem"; title = "About %@"; ObjectID = "5kV-Vb-QxS";</note>
+      </trans-unit>
+      <trans-unit id="6UL-m9-dM1.title">
+        <source>Eject</source>
+        <note>Class = "NSMenuItem"; title = "Eject"; ObjectID = "6UL-m9-dM1";</note>
+      </trans-unit>
+      <trans-unit id="8CC-tW-I4S.title">
+        <source>Enter Full Screen</source>
+        <note>Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "8CC-tW-I4S";</note>
+      </trans-unit>
+      <trans-unit id="74o-Ao-Oct.title">
+        <source>Title</source>
+        <note>Class = "NSMenuItem"; title = "Title"; ObjectID = "74o-Ao-Oct";</note>
+      </trans-unit>
+      <trans-unit id="362-ab-Sy6.title">
+        <source>Paste</source>
+        <note>Class = "NSMenuItem"; title = "Paste"; ObjectID = "362-ab-Sy6";</note>
+      </trans-unit>
+      <trans-unit id="AYu-sK-qS6.title">
+        <source>Main Menu</source>
+        <note>Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6";</note>
+      </trans-unit>
+      <trans-unit id="B46-TB-g1y.title">
+        <source>Copy</source>
+        <note>Class = "NSMenuItem"; title = "Copy"; ObjectID = "B46-TB-g1y";</note>
+      </trans-unit>
+      <trans-unit id="BOF-NM-1cW.title">
+        <source>Preferences...</source>
+        <note>Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "BOF-NM-1cW";</note>
+      </trans-unit>
+      <trans-unit id="C4X-SH-PU3.title">
+        <source>Eject</source>
+        <note>Class = "NSMenuItem"; title = "Eject"; ObjectID = "C4X-SH-PU3";</note>
+      </trans-unit>
+      <trans-unit id="CTy-DN-y2B.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "CTy-DN-y2B";</note>
+      </trans-unit>
+      <trans-unit id="D7x-Pq-DDP.title">
+        <source>Go</source>
+        <note>Class = "NSMenu"; title = "Go"; ObjectID = "D7x-Pq-DDP";</note>
+      </trans-unit>
+      <trans-unit id="DVo-aG-piG.title">
+        <source>Close and Eject</source>
+        <note>Class = "NSMenuItem"; title = "Close and Eject"; ObjectID = "DVo-aG-piG";</note>
+      </trans-unit>
+      <trans-unit id="DnG-4G-O9h.title">
+        <source>Skip Ahead 5 seconds</source>
+        <note>Class = "NSMenuItem"; title = "Skip Ahead 5 seconds"; ObjectID = "DnG-4G-O9h";</note>
+      </trans-unit>
+      <trans-unit id="Exp-g0-ZIe.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "Exp-g0-ZIe";</note>
+      </trans-unit>
+      <trans-unit id="EyJ-U6-1N1.title">
+        <source>Secondary Video</source>
+        <note>Class = "NSMenu"; title = "Secondary Video"; ObjectID = "EyJ-U6-1N1";</note>
+      </trans-unit>
+      <trans-unit id="FJa-ma-JKO.title">
+        <source>Virtual Remote</source>
+        <note>Class = "NSMenuItem"; title = "Virtual Remote"; ObjectID = "FJa-ma-JKO";</note>
+      </trans-unit>
+      <trans-unit id="FPi-sZ-dhH.title">
+        <source>Title</source>
+        <note>Class = "NSMenu"; title = "Title"; ObjectID = "FPi-sZ-dhH";</note>
+      </trans-unit>
+      <trans-unit id="ISx-y2-RTh.title">
+        <source>Edit</source>
+        <note>Class = "NSMenu"; title = "Edit"; ObjectID = "ISx-y2-RTh";</note>
+      </trans-unit>
+      <trans-unit id="KQU-Qb-2Ue.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "KQU-Qb-2Ue";</note>
+      </trans-unit>
+      <trans-unit id="Kd2-mp-pUS.title">
+        <source>Show All</source>
+        <note>Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS";</note>
+      </trans-unit>
+      <trans-unit id="KhN-k3-VHF.title">
+        <source>Deinterlace</source>
+        <note>Class = "NSMenu"; title = "Deinterlace"; ObjectID = "KhN-k3-VHF";</note>
+      </trans-unit>
+      <trans-unit id="NMo-om-nkz.title">
+        <source>Services</source>
+        <note>Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz";</note>
+      </trans-unit>
+      <trans-unit id="Ngo-yd-SIx.title">
+        <source>Subtitle</source>
+        <note>Class = "NSMenu"; title = "Subtitle"; ObjectID = "Ngo-yd-SIx";</note>
+      </trans-unit>
+      <trans-unit id="Olw-nP-bQN.title">
+        <source>Hide %@</source>
+        <note>Class = "NSMenuItem"; title = "Hide %@"; ObjectID = "Olw-nP-bQN";</note>
+      </trans-unit>
+      <trans-unit id="Oym-Pw-DzY.title">
+        <source>Redo</source>
+        <note>Class = "NSMenuItem"; title = "Redo"; ObjectID = "Oym-Pw-DzY";</note>
+      </trans-unit>
+      <trans-unit id="Py5-NR-5t3.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "Py5-NR-5t3";</note>
+      </trans-unit>
+      <trans-unit id="RaZ-mR-Nnb.title">
+        <source>Mute</source>
+        <note>Class = "NSMenuItem"; title = "Mute"; ObjectID = "RaZ-mR-Nnb";</note>
+      </trans-unit>
+      <trans-unit id="RlR-He-S5e.title">
+        <source>Volume Up</source>
+        <note>Class = "NSMenuItem"; title = "Volume Up"; ObjectID = "RlR-He-S5e";</note>
+      </trans-unit>
+      <trans-unit id="S6w-c7-llW.title">
+        <source>Audio</source>
+        <note>Class = "NSMenu"; title = "Audio"; ObjectID = "S6w-c7-llW";</note>
+      </trans-unit>
+      <trans-unit id="SFw-gE-0sJ.title">
+        <source>Chapter</source>
+        <note>Class = "NSMenuItem"; title = "Chapter"; ObjectID = "SFw-gE-0sJ";</note>
+      </trans-unit>
+      <trans-unit id="Tsp-zz-YJc.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "Tsp-zz-YJc";</note>
+      </trans-unit>
+      <trans-unit id="U4Y-gI-NVH.title">
+        <source>Angle</source>
+        <note>Class = "NSMenu"; title = "Angle"; ObjectID = "U4Y-gI-NVH";</note>
+      </trans-unit>
+      <trans-unit id="UiX-vq-gXm.title">
+        <source>Secondary Audio</source>
+        <note>Class = "NSMenuItem"; title = "Secondary Audio"; ObjectID = "UiX-vq-gXm";</note>
+      </trans-unit>
+      <trans-unit id="Un4-Yo-NsF.title">
+        <source>Subtitle Style</source>
+        <note>Class = "NSMenu"; title = "Subtitle Style"; ObjectID = "Un4-Yo-NsF";</note>
+      </trans-unit>
+      <trans-unit id="VIC-wa-zgV.title">
+        <source>Edit</source>
+        <note>Class = "NSMenuItem"; title = "Edit"; ObjectID = "VIC-wa-zgV";</note>
+      </trans-unit>
+      <trans-unit id="VOw-fY-PWM.title">
+        <source>Play</source>
+        <note>Class = "NSMenuItem"; title = "Play"; ObjectID = "VOw-fY-PWM";</note>
+      </trans-unit>
+      <trans-unit id="Vdr-fp-XzO.title">
+        <source>Hide Others</source>
+        <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
+      </trans-unit>
+      <trans-unit id="Vxl-4V-gT2.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "Vxl-4V-gT2";</note>
+      </trans-unit>
+      <trans-unit id="W4P-vV-faP.title">
+        <source>Register...</source>
+        <note>Class = "NSMenuItem"; title = "Register..."; ObjectID = "W4P-vV-faP";</note>
+      </trans-unit>
+      <trans-unit id="WVL-lh-PzK.title">
+        <source>Select All</source>
+        <note>Class = "NSMenuItem"; title = "Select All"; ObjectID = "WVL-lh-PzK";</note>
+      </trans-unit>
+      <trans-unit id="WWq-Kd-97W.title">
+        <source>Paste and Match Style</source>
+        <note>Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WWq-Kd-97W";</note>
+      </trans-unit>
+      <trans-unit id="Was-JA-tGl.title">
+        <source>Open...</source>
+        <note>Class = "NSMenuItem"; title = "Open..."; ObjectID = "Was-JA-tGl";</note>
+      </trans-unit>
+      <trans-unit id="XVa-hL-dsG.title">
+        <source>Next Chapter</source>
+        <note>Class = "NSMenuItem"; title = "Next Chapter"; ObjectID = "XVa-hL-dsG";</note>
+      </trans-unit>
+      <trans-unit id="YAU-bE-b61.title">
+        <source>View</source>
+        <note>Class = "NSMenu"; title = "View"; ObjectID = "YAU-bE-b61";</note>
+      </trans-unit>
+      <trans-unit id="Z7o-bs-Emw.title">
+        <source>Go</source>
+        <note>Class = "NSMenuItem"; title = "Go"; ObjectID = "Z7o-bs-Emw";</note>
+      </trans-unit>
+      <trans-unit id="ZNs-Sg-YmW.title">
+        <source>Video Zoom</source>
+        <note>Class = "NSMenu"; title = "Video Zoom"; ObjectID = "ZNs-Sg-YmW";</note>
+      </trans-unit>
+      <trans-unit id="ZuR-dR-txW.title">
+        <source>Undo</source>
+        <note>Class = "NSMenuItem"; title = "Undo"; ObjectID = "ZuR-dR-txW";</note>
+      </trans-unit>
+      <trans-unit id="asC-AR-6az.title">
+        <source>Deinterlace</source>
+        <note>Class = "NSMenuItem"; title = "Deinterlace"; ObjectID = "asC-AR-6az";</note>
+      </trans-unit>
+      <trans-unit id="bib-Uj-vzu.title">
+        <source>File</source>
+        <note>Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu";</note>
+      </trans-unit>
+      <trans-unit id="ceu-Zn-jY0.title">
+        <source>Stop</source>
+        <note>Class = "NSMenuItem"; title = "Stop"; ObjectID = "ceu-Zn-jY0";</note>
+      </trans-unit>
+      <trans-unit id="cwU-zL-6w7.title">
+        <source>Subtitle Style</source>
+        <note>Class = "NSMenuItem"; title = "Subtitle Style"; ObjectID = "cwU-zL-6w7";</note>
+      </trans-unit>
+      <trans-unit id="dMs-cI-mzQ.title">
+        <source>File</source>
+        <note>Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ";</note>
+      </trans-unit>
+      <trans-unit id="fug-va-grn.title">
+        <source>Play</source>
+        <note>Class = "NSMenuItem"; title = "Play"; ObjectID = "fug-va-grn";</note>
+      </trans-unit>
+      <trans-unit id="hW5-Vf-7LM.title">
+        <source>Previous Chapter</source>
+        <note>Class = "NSMenuItem"; title = "Previous Chapter"; ObjectID = "hW5-Vf-7LM";</note>
+      </trans-unit>
+      <trans-unit id="hz9-B4-Xy5.title">
+        <source>Services</source>
+        <note>Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5";</note>
+      </trans-unit>
+      <trans-unit id="l8s-aE-gCQ.title">
+        <source>Normal</source>
+        <note>Class = "NSMenuItem"; title = "Normal"; ObjectID = "l8s-aE-gCQ";</note>
+      </trans-unit>
+      <trans-unit id="lId-MD-Bgd.title">
+        <source>View</source>
+        <note>Class = "NSMenuItem"; title = "View"; ObjectID = "lId-MD-Bgd";</note>
+      </trans-unit>
+      <trans-unit id="m3c-HM-j9h.title">
+        <source>Audio</source>
+        <note>Class = "NSMenuItem"; title = "Audio"; ObjectID = "m3c-HM-j9h";</note>
+      </trans-unit>
+      <trans-unit id="mTR-74-6TF.title">
+        <source>Close</source>
+        <note>Class = "NSMenuItem"; title = "Close"; ObjectID = "mTR-74-6TF";</note>
+      </trans-unit>
+      <trans-unit id="o2H-Js-Xb7.title">
+        <source>Video Zoom</source>
+        <note>Class = "NSMenuItem"; title = "Video Zoom"; ObjectID = "o2H-Js-Xb7";</note>
+      </trans-unit>
+      <trans-unit id="q7l-cg-eEO.title">
+        <source>Controls</source>
+        <note>Class = "NSMenu"; title = "Controls"; ObjectID = "q7l-cg-eEO";</note>
+      </trans-unit>
+      <trans-unit id="qUO-OX-7kZ.title">
+        <source>Chapter</source>
+        <note>Class = "NSMenu"; title = "Chapter"; ObjectID = "qUO-OX-7kZ";</note>
+      </trans-unit>
+      <trans-unit id="qYv-fI-BHx.title">
+        <source>Mute</source>
+        <note>Class = "NSMenuItem"; title = "Mute"; ObjectID = "qYv-fI-BHx";</note>
+      </trans-unit>
+      <trans-unit id="sDM-2w-TXn.title">
+        <source>Delete</source>
+        <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "sDM-2w-TXn";</note>
+      </trans-unit>
+      <trans-unit id="sLT-MO-bm5.title">
+        <source>Subtitle</source>
+        <note>Class = "NSMenuItem"; title = "Subtitle"; ObjectID = "sLT-MO-bm5";</note>
+      </trans-unit>
+      <trans-unit id="sWI-N7-w0z.title">
+        <source>Secondary Audio</source>
+        <note>Class = "NSMenu"; title = "Secondary Audio"; ObjectID = "sWI-N7-w0z";</note>
+      </trans-unit>
+      <trans-unit id="taY-gS-wXp.title">
+        <source>Open URL...</source>
+        <note>Class = "NSMenuItem"; title = "Open URL..."; ObjectID = "taY-gS-wXp";</note>
+      </trans-unit>
+      <trans-unit id="tlD-NV-TtJ.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "tlD-NV-TtJ";</note>
+      </trans-unit>
+      <trans-unit id="uQy-DD-JDr.title">
+        <source>%@</source>
+        <note>Class = "NSMenu"; title = "%@"; ObjectID = "uQy-DD-JDr";</note>
+      </trans-unit>
+      <trans-unit id="w6w-qT-lmd.title">
+        <source>Float on Top</source>
+        <note>Class = "NSMenuItem"; title = "Float on Top"; ObjectID = "w6w-qT-lmd";</note>
+      </trans-unit>
+      <trans-unit id="wJ9-7g-MLN.title">
+        <source>First Play</source>
+        <note>Class = "NSMenuItem"; title = "First Play"; ObjectID = "wJ9-7g-MLN";</note>
+      </trans-unit>
+      <trans-unit id="wcu-JN-XNg.title">
+        <source>Pop-up Menu</source>
+        <note>Class = "NSMenuItem"; title = "Pop-up Menu"; ObjectID = "wcu-JN-XNg";</note>
+      </trans-unit>
+      <trans-unit id="wnm-4v-48U.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "wnm-4v-48U";</note>
+      </trans-unit>
+      <trans-unit id="ww6-Ye-Sy2.title">
+        <source>Controls</source>
+        <note>Class = "NSMenuItem"; title = "Controls"; ObjectID = "ww6-Ye-Sy2";</note>
+      </trans-unit>
+      <trans-unit id="xDa-U6-7cb.title">
+        <source>Features</source>
+        <note>Class = "NSMenuItem"; title = "Features"; ObjectID = "xDa-U6-7cb";</note>
+      </trans-unit>
+      <trans-unit id="xES-aj-I47.title">
+        <source>Fill</source>
+        <note>Class = "NSMenuItem"; title = "Fill"; ObjectID = "xES-aj-I47";</note>
+      </trans-unit>
+      <trans-unit id="yPs-sw-niJ.title">
+        <source>Angle</source>
+        <note>Class = "NSMenuItem"; title = "Angle"; ObjectID = "yPs-sw-niJ";</note>
+      </trans-unit>
+      <trans-unit id="ygS-03-fiZ.title">
+        <source>Volume Down</source>
+        <note>Class = "NSMenuItem"; title = "Volume Down"; ObjectID = "ygS-03-fiZ";</note>
+      </trans-unit>
+      <trans-unit id="yl9-bF-QPK.title">
+        <source>Check for Updates...</source>
+        <note>Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "yl9-bF-QPK";</note>
+      </trans-unit>
+      <trans-unit id="yxh-iM-3XJ.title">
+        <source>Stretch</source>
+        <note>Class = "NSMenuItem"; title = "Stretch"; ObjectID = "yxh-iM-3XJ";</note>
+      </trans-unit>
+      <trans-unit id="z0T-Ta-jKd.title">
+        <source>Cut</source>
+        <note>Class = "NSMenuItem"; title = "Cut"; ObjectID = "z0T-Ta-jKd";</note>
+      </trans-unit>
+      <trans-unit id="zEi-d2-M9M.title">
+        <source>Top Menu</source>
+        <note>Class = "NSMenuItem"; title = "Top Menu"; ObjectID = "zEi-d2-M9M";</note>
+      </trans-unit>
+      <trans-unit id="zmL-nm-Wmh.title">
+        <source>Fit</source>
+        <note>Class = "NSMenuItem"; title = "Fit"; ObjectID = "zmL-nm-Wmh";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/Base.lproj/MainWindow.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="5HI-XN-OYh.title">
+        <source>Menu</source>
+        <note>Class = "NSMenu"; title = "Menu"; ObjectID = "5HI-XN-OYh";</note>
+      </trans-unit>
+      <trans-unit id="9wq-gh-Ryj.title">
+        <source>0:00:00 / 0:00:00</source>
+        <note>Class = "NSTextFieldCell"; title = "0:00:00 / 0:00:00"; ObjectID = "9wq-gh-Ryj";</note>
+      </trans-unit>
+      <trans-unit id="37e-wN-TBf.title">
+        <source>Title</source>
+        <note>Class = "NSMenuItem"; title = "Title"; ObjectID = "37e-wN-TBf";</note>
+      </trans-unit>
+      <trans-unit id="C9K-6l-tTu.title">
+        <source>Audio</source>
+        <note>Class = "NSMenuItem"; title = "Audio"; ObjectID = "C9K-6l-tTu";</note>
+      </trans-unit>
+      <trans-unit id="D0l-Jz-3ca.ibShadowedToolTip">
+        <source>Previous Point</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Previous Point"; ObjectID = "D0l-Jz-3ca";</note>
+      </trans-unit>
+      <trans-unit id="EQ4-aX-dKC.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "EQ4-aX-dKC";</note>
+      </trans-unit>
+      <trans-unit id="Hmr-Rx-G08.title">
+        <source>Menu</source>
+        <note>Class = "NSMenu"; title = "Menu"; ObjectID = "Hmr-Rx-G08";</note>
+      </trans-unit>
+      <trans-unit id="KfN-sD-dQv.title">
+        <source>Menu</source>
+        <note>Class = "NSMenu"; title = "Menu"; ObjectID = "KfN-sD-dQv";</note>
+      </trans-unit>
+      <trans-unit id="NJg-kq-zbU.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "NJg-kq-zbU";</note>
+      </trans-unit>
+      <trans-unit id="Tr8-N3-QIH.title">
+        <source>Menu</source>
+        <note>Class = "NSMenu"; title = "Menu"; ObjectID = "Tr8-N3-QIH";</note>
+      </trans-unit>
+      <trans-unit id="WT3-Cx-H4D.ibShadowedToolTip">
+        <source>Blue</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Blue"; ObjectID = "WT3-Cx-H4D";</note>
+      </trans-unit>
+      <trans-unit id="Wjo-aR-Z1S.ibShadowedToolTip">
+        <source>Virtual Remote</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Virtual Remote"; ObjectID = "Wjo-aR-Z1S";</note>
+      </trans-unit>
+      <trans-unit id="cFX-j6-pH5.ibShadowedToolTip">
+        <source>Yellow</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Yellow"; ObjectID = "cFX-j6-pH5";</note>
+      </trans-unit>
+      <trans-unit id="fZd-e2-EQo.ibShadowedToolTip">
+        <source>Red</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Red"; ObjectID = "fZd-e2-EQo";</note>
+      </trans-unit>
+      <trans-unit id="icq-OE-vWX.ibShadowedToolTip">
+        <source>Features...</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Features..."; ObjectID = "icq-OE-vWX";</note>
+      </trans-unit>
+      <trans-unit id="nAX-g4-NWx.ibShadowedToolTip">
+        <source>Eject</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Eject"; ObjectID = "nAX-g4-NWx";</note>
+      </trans-unit>
+      <trans-unit id="osM-DM-RM7.title">
+        <source>UNREGISTERED VERSION
+Remove Watermark</source>
+        <note>Class = "NSButtonCell"; title = "UNREGISTERED VERSION\nRemove Watermark"; ObjectID = "osM-DM-RM7";</note>
+      </trans-unit>
+      <trans-unit id="qOI-L1-jHD.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "qOI-L1-jHD";</note>
+      </trans-unit>
+      <trans-unit id="rae-sz-wlA.ibShadowedToolTip">
+        <source>Next Point</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Next Point"; ObjectID = "rae-sz-wlA";</note>
+      </trans-unit>
+      <trans-unit id="tCo-z1-V1f.ibShadowedToolTip">
+        <source>Green</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Green"; ObjectID = "tCo-z1-V1f";</note>
+      </trans-unit>
+      <trans-unit id="wKr-G8-mRj.ibShadowedToolTip">
+        <source>Top Menu</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Top Menu"; ObjectID = "wKr-G8-mRj";</note>
+      </trans-unit>
+      <trans-unit id="wrO-MY-YTB.title">
+        <source>Chapter</source>
+        <note>Class = "NSMenuItem"; title = "Chapter"; ObjectID = "wrO-MY-YTB";</note>
+      </trans-unit>
+      <trans-unit id="xVY-GM-h36.ibShadowedToolTip">
+        <source>Pop-up Menu</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Pop-up Menu"; ObjectID = "xVY-GM-h36";</note>
+      </trans-unit>
+      <trans-unit id="yDe-8h-XPL.title">
+        <source>Subtitle</source>
+        <note>Class = "NSMenuItem"; title = "Subtitle"; ObjectID = "yDe-8h-XPL";</note>
+      </trans-unit>
+      <trans-unit id="zVh-w6-zDG.title">
+        <source>None</source>
+        <note>Class = "NSMenuItem"; title = "None"; ObjectID = "zVh-w6-zDG";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/Base.lproj/OpenURL.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="4gj-tz-tjF.title">
+        <source>Open</source>
+        <note>Class = "NSButtonCell"; title = "Open"; ObjectID = "4gj-tz-tjF";</note>
+      </trans-unit>
+      <trans-unit id="F0z-JX-Cv5.title">
+        <source>Open URL</source>
+        <note>Class = "NSWindow"; title = "Open URL"; ObjectID = "F0z-JX-Cv5";</note>
+      </trans-unit>
+      <trans-unit id="nqu-4q-YvS.title">
+        <source>URL:</source>
+        <note>Class = "NSTextFieldCell"; title = "URL:"; ObjectID = "nqu-4q-YvS";</note>
+      </trans-unit>
+      <trans-unit id="nzh-LM-h82.title">
+        <source>Cancel</source>
+        <note>Class = "NSButtonCell"; title = "Cancel"; ObjectID = "nzh-LM-h82";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/Base.lproj/Preferences.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="2ST-pu-FZJ.title">
+        <source>TrueHD (AC-3 Stream)</source>
+        <note>Class = "NSButtonCell"; title = "TrueHD (AC-3 Stream)"; ObjectID = "2ST-pu-FZJ";</note>
+      </trans-unit>
+      <trans-unit id="5q1-Xh-Xeh.title">
+        <source>Enable Hardware Acceleration</source>
+        <note>Class = "NSButtonCell"; title = "Enable Hardware Acceleration"; ObjectID = "5q1-Xh-Xeh";</note>
+      </trans-unit>
+      <trans-unit id="7nv-ZM-SZm.title">
+        <source>MPEG-4 AVC</source>
+        <note>Class = "NSButtonCell"; title = "MPEG-4 AVC"; ObjectID = "7nv-ZM-SZm";</note>
+      </trans-unit>
+      <trans-unit id="9Bg-Jf-aUF.title">
+        <source>Check for updates:</source>
+        <note>Class = "NSButtonCell"; title = "Check for updates:"; ObjectID = "9Bg-Jf-aUF";</note>
+      </trans-unit>
+      <trans-unit id="9y3-N7-4me.title">
+        <source>255 (Most Relaxed)</source>
+        <note>Class = "NSMenuItem"; title = "255 (Most Relaxed)"; ObjectID = "9y3-N7-4me";</note>
+      </trans-unit>
+      <trans-unit id="Dgk-fQ-CwI.title">
+        <source>Region Code:</source>
+        <note>Class = "NSTextFieldCell"; title = "Region Code:"; ObjectID = "Dgk-fQ-CwI";</note>
+      </trans-unit>
+      <trans-unit id="GD3-MC-5aI.title">
+        <source>Allow:</source>
+        <note>Class = "NSTextFieldCell"; title = "Allow:"; ObjectID = "GD3-MC-5aI";</note>
+      </trans-unit>
+      <trans-unit id="Gbr-lQ-jWM.title">
+        <source>Enable Digital Audio Output</source>
+        <note>Class = "NSButtonCell"; title = "Enable Digital Audio Output"; ObjectID = "Gbr-lQ-jWM";</note>
+      </trans-unit>
+      <trans-unit id="Hmn-GK-RWk.title">
+        <source>Audio Language:</source>
+        <note>Class = "NSTextFieldCell"; title = "Audio Language:"; ObjectID = "Hmn-GK-RWk";</note>
+      </trans-unit>
+      <trans-unit id="Itl-mh-yVj.alternateTitle">
+        <source>🔒</source>
+        <note>Class = "NSButtonCell"; alternateTitle = "🔒"; ObjectID = "Itl-mh-yVj";</note>
+      </trans-unit>
+      <trans-unit id="Itl-mh-yVj.title">
+        <source>🔓</source>
+        <note>Class = "NSButtonCell"; title = "🔓"; ObjectID = "Itl-mh-yVj";</note>
+      </trans-unit>
+      <trans-unit id="LBc-8h-czb.title">
+        <source>AC-3</source>
+        <note>Class = "NSButtonCell"; title = "AC-3"; ObjectID = "LBc-8h-czb";</note>
+      </trans-unit>
+      <trans-unit id="NPB-yA-tU9.title">
+        <source>Parental Level:</source>
+        <note>Class = "NSTextFieldCell"; title = "Parental Level:"; ObjectID = "NPB-yA-tU9";</note>
+      </trans-unit>
+      <trans-unit id="P34-gt-sMZ.title">
+        <source>DTS</source>
+        <note>Class = "NSButtonCell"; title = "DTS"; ObjectID = "P34-gt-sMZ";</note>
+      </trans-unit>
+      <trans-unit id="PBT-iK-x3C.title">
+        <source>4</source>
+        <note>Class = "NSMenuItem"; title = "4"; ObjectID = "PBT-iK-x3C";</note>
+      </trans-unit>
+      <trans-unit id="TmY-z6-gcZ.title">
+        <source>E-AC-3 (AC-3 Stream)</source>
+        <note>Class = "NSButtonCell"; title = "E-AC-3 (AC-3 Stream)"; ObjectID = "TmY-z6-gcZ";</note>
+      </trans-unit>
+      <trans-unit id="TqU-t9-KR6.title">
+        <source>MPEG-4 AVC (VDA Mode)</source>
+        <note>Class = "NSButtonCell"; title = "MPEG-4 AVC (VDA Mode)"; ObjectID = "TqU-t9-KR6";</note>
+      </trans-unit>
+      <trans-unit id="Tsz-cq-h60.title">
+        <source>9</source>
+        <note>Class = "NSMenuItem"; title = "9"; ObjectID = "Tsz-cq-h60";</note>
+      </trans-unit>
+      <trans-unit id="VJw-1O-8th.title">
+        <source>Download updates automatically</source>
+        <note>Class = "NSButtonCell"; title = "Download updates automatically"; ObjectID = "VJw-1O-8th";</note>
+      </trans-unit>
+      <trans-unit id="W2C-F2-PUM.label">
+        <source>Advanced</source>
+        <note>Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "W2C-F2-PUM";</note>
+      </trans-unit>
+      <trans-unit id="W2C-F2-PUM.paletteLabel">
+        <source>Advanced</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "W2C-F2-PUM";</note>
+      </trans-unit>
+      <trans-unit id="WCu-fh-buI.title">
+        <source>Preferences</source>
+        <note>Class = "NSWindow"; title = "Preferences"; ObjectID = "WCu-fh-buI";</note>
+      </trans-unit>
+      <trans-unit id="YNr-Do-MM6.title">
+        <source>DTS-HD (Core Stream)</source>
+        <note>Class = "NSButtonCell"; title = "DTS-HD (Core Stream)"; ObjectID = "YNr-Do-MM6";</note>
+      </trans-unit>
+      <trans-unit id="ZSL-e1-ZP8.title">
+        <source>MPEG-2</source>
+        <note>Class = "NSButtonCell"; title = "MPEG-2"; ObjectID = "ZSL-e1-ZP8";</note>
+      </trans-unit>
+      <trans-unit id="aH1-1u-LAz.title">
+        <source>Enable Fast Mode for Software Decoding</source>
+        <note>Class = "NSButtonCell"; title = "Enable Fast Mode for Software Decoding"; ObjectID = "aH1-1u-LAz";</note>
+      </trans-unit>
+      <trans-unit id="aHL-Im-264.title">
+        <source>12</source>
+        <note>Class = "NSMenuItem"; title = "12"; ObjectID = "aHL-Im-264";</note>
+      </trans-unit>
+      <trans-unit id="b3K-Gz-cWI.title">
+        <source>17</source>
+        <note>Class = "NSMenuItem"; title = "17"; ObjectID = "b3K-Gz-cWI";</note>
+      </trans-unit>
+      <trans-unit id="b4Q-w3-XFb.title">
+        <source>MPEG-2</source>
+        <note>Class = "NSButtonCell"; title = "MPEG-2"; ObjectID = "b4Q-w3-XFb";</note>
+      </trans-unit>
+      <trans-unit id="be3-sR-f5c.title">
+        <source>Non-Existing Certificates</source>
+        <note>Class = "NSButtonCell"; title = "Non-Existing Certificates"; ObjectID = "be3-sR-f5c";</note>
+      </trans-unit>
+      <trans-unit id="cTO-rF-piA.title">
+        <source>User's age: 255 (Most Relaxed) ~ 0 (Strictest)</source>
+        <note>Class = "NSTextFieldCell"; title = "User's age: 255 (Most Relaxed) ~ 0 (Strictest)"; ObjectID = "cTO-rF-piA";</note>
+      </trans-unit>
+      <trans-unit id="eZF-dF-d2e.label">
+        <source>General</source>
+        <note>Class = "NSToolbarItem"; label = "General"; ObjectID = "eZF-dF-d2e";</note>
+      </trans-unit>
+      <trans-unit id="eZF-dF-d2e.paletteLabel">
+        <source>General</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "eZF-dF-d2e";</note>
+      </trans-unit>
+      <trans-unit id="ep5-Yq-pd2.title">
+        <source>Enable Network Access for BD-J Applications</source>
+        <note>Class = "NSButtonCell"; title = "Enable Network Access for BD-J Applications"; ObjectID = "ep5-Yq-pd2";</note>
+      </trans-unit>
+      <trans-unit id="g8k-LU-sWn.label">
+        <source>Blu-ray</source>
+        <note>Class = "NSToolbarItem"; label = "Blu-ray"; ObjectID = "g8k-LU-sWn";</note>
+      </trans-unit>
+      <trans-unit id="g8k-LU-sWn.paletteLabel">
+        <source>Blu-ray</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Blu-ray"; ObjectID = "g8k-LU-sWn";</note>
+      </trans-unit>
+      <trans-unit id="iwu-8R-feb.title">
+        <source>Invalid Certificates</source>
+        <note>Class = "NSButtonCell"; title = "Invalid Certificates"; ObjectID = "iwu-8R-feb";</note>
+      </trans-unit>
+      <trans-unit id="jd6-Fs-shl.title">
+        <source>Monthly</source>
+        <note>Class = "NSMenuItem"; title = "Monthly"; ObjectID = "jd6-Fs-shl";</note>
+      </trans-unit>
+      <trans-unit id="ksk-Pt-9Kr.ibShadowedLabels[0]">
+        <source>A</source>
+        <note>Class = "NSSegmentedCell"; ksk-Pt-9Kr.ibShadowedLabels[0] = "A"; ObjectID = "ksk-Pt-9Kr";</note>
+      </trans-unit>
+      <trans-unit id="ksk-Pt-9Kr.ibShadowedLabels[1]">
+        <source>B</source>
+        <note>Class = "NSSegmentedCell"; ksk-Pt-9Kr.ibShadowedLabels[1] = "B"; ObjectID = "ksk-Pt-9Kr";</note>
+      </trans-unit>
+      <trans-unit id="ksk-Pt-9Kr.ibShadowedLabels[2]">
+        <source>C</source>
+        <note>Class = "NSSegmentedCell"; ksk-Pt-9Kr.ibShadowedLabels[2] = "C"; ObjectID = "ksk-Pt-9Kr";</note>
+      </trans-unit>
+      <trans-unit id="olL-cB-VKQ.title">
+        <source>0 (Strictest)</source>
+        <note>Class = "NSMenuItem"; title = "0 (Strictest)"; ObjectID = "olL-cB-VKQ";</note>
+      </trans-unit>
+      <trans-unit id="sUn-Ny-9u1.alternateTitle">
+        <source>🔒</source>
+        <note>Class = "NSButtonCell"; alternateTitle = "🔒"; ObjectID = "sUn-Ny-9u1";</note>
+      </trans-unit>
+      <trans-unit id="sUn-Ny-9u1.title">
+        <source>🔓</source>
+        <note>Class = "NSButtonCell"; title = "🔓"; ObjectID = "sUn-Ny-9u1";</note>
+      </trans-unit>
+      <trans-unit id="tls-xq-08F.title">
+        <source>Weekly</source>
+        <note>Class = "NSMenuItem"; title = "Weekly"; ObjectID = "tls-xq-08F";</note>
+      </trans-unit>
+      <trans-unit id="uQv-8j-3ts.title">
+        <source>Menu Language:</source>
+        <note>Class = "NSTextFieldCell"; title = "Menu Language:"; ObjectID = "uQv-8j-3ts";</note>
+      </trans-unit>
+      <trans-unit id="uiF-Ay-zPU.title">
+        <source>Daily</source>
+        <note>Class = "NSMenuItem"; title = "Daily"; ObjectID = "uiF-Ay-zPU";</note>
+      </trans-unit>
+      <trans-unit id="vDG-k3-uRF.title">
+        <source>Subtitle Language:</source>
+        <note>Class = "NSTextFieldCell"; title = "Subtitle Language:"; ObjectID = "vDG-k3-uRF";</note>
+      </trans-unit>
+      <trans-unit id="wpc-Qr-6gI.title">
+        <source>Start playing disc when Player opens</source>
+        <note>Class = "NSButtonCell"; title = "Start playing disc when Player opens"; ObjectID = "wpc-Qr-6gI";</note>
+      </trans-unit>
+      <trans-unit id="x1H-ib-v9h.title">
+        <source>Country:</source>
+        <note>Class = "NSTextFieldCell"; title = "Country:"; ObjectID = "x1H-ib-v9h";</note>
+      </trans-unit>
+      <trans-unit id="x6q-aZ-FwU.title">
+        <source>MPEG-4 AVC</source>
+        <note>Class = "NSButtonCell"; title = "MPEG-4 AVC"; ObjectID = "x6q-aZ-FwU";</note>
+      </trans-unit>
+      <trans-unit id="y8v-uj-jTB.title">
+        <source>Start playing disc when a disc is inserted</source>
+        <note>Class = "NSButtonCell"; title = "Start playing disc when a disc is inserted"; ObjectID = "y8v-uj-jTB";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/Base.lproj/Register.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="1zO-U9-MPn.title">
+        <source>Buy Online</source>
+        <note>Class = "NSButtonCell"; title = "Buy Online"; ObjectID = "1zO-U9-MPn";</note>
+      </trans-unit>
+      <trans-unit id="3kE-x5-1bJ.title">
+        <source>Please enter your registration code below:</source>
+        <note>Class = "NSTextFieldCell"; title = "Please enter your registration code below:"; ObjectID = "3kE-x5-1bJ";</note>
+      </trans-unit>
+      <trans-unit id="Usb-Jg-8ED.title">
+        <source>Register</source>
+        <note>Class = "NSWindow"; title = "Register"; ObjectID = "Usb-Jg-8ED";</note>
+      </trans-unit>
+      <trans-unit id="zd6-Oc-vwM.title">
+        <source>Register</source>
+        <note>Class = "NSButtonCell"; title = "Register"; ObjectID = "zd6-Oc-vwM";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/Base.lproj/Remote.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="0zj-PU-DYc.ibShadowedToolTip">
+        <source>Enter</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Enter"; ObjectID = "0zj-PU-DYc";</note>
+      </trans-unit>
+      <trans-unit id="1iC-Xo-0Hx.ibShadowedToolTip">
+        <source>Red</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Red"; ObjectID = "1iC-Xo-0Hx";</note>
+      </trans-unit>
+      <trans-unit id="4Fc-PU-NEE.title">
+        <source>4</source>
+        <note>Class = "NSButtonCell"; title = "4"; ObjectID = "4Fc-PU-NEE";</note>
+      </trans-unit>
+      <trans-unit id="BzC-Ua-RzY.title">
+        <source>1</source>
+        <note>Class = "NSButtonCell"; title = "1"; ObjectID = "BzC-Ua-RzY";</note>
+      </trans-unit>
+      <trans-unit id="DSL-5d-1d0.title">
+        <source>5</source>
+        <note>Class = "NSButtonCell"; title = "5"; ObjectID = "DSL-5d-1d0";</note>
+      </trans-unit>
+      <trans-unit id="F9C-zM-R1f.ibShadowedToolTip">
+        <source>Top Menu</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Top Menu"; ObjectID = "F9C-zM-R1f";</note>
+      </trans-unit>
+      <trans-unit id="HRq-vf-IiK.ibShadowedToolTip">
+        <source>Left</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Left"; ObjectID = "HRq-vf-IiK";</note>
+      </trans-unit>
+      <trans-unit id="JY6-Wz-Fyi.title">
+        <source>9</source>
+        <note>Class = "NSButtonCell"; title = "9"; ObjectID = "JY6-Wz-Fyi";</note>
+      </trans-unit>
+      <trans-unit id="Jjg-Cj-ObH.ibShadowedToolTip">
+        <source>Right</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Right"; ObjectID = "Jjg-Cj-ObH";</note>
+      </trans-unit>
+      <trans-unit id="LvY-ak-mYH.title">
+        <source>2</source>
+        <note>Class = "NSButtonCell"; title = "2"; ObjectID = "LvY-ak-mYH";</note>
+      </trans-unit>
+      <trans-unit id="N7H-k3-O7V.ibShadowedToolTip">
+        <source>Pop-up Menu</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Pop-up Menu"; ObjectID = "N7H-k3-O7V";</note>
+      </trans-unit>
+      <trans-unit id="Pcl-pb-hWW.title">
+        <source>6</source>
+        <note>Class = "NSButtonCell"; title = "6"; ObjectID = "Pcl-pb-hWW";</note>
+      </trans-unit>
+      <trans-unit id="SuR-Lb-YRa.title">
+        <source>7</source>
+        <note>Class = "NSButtonCell"; title = "7"; ObjectID = "SuR-Lb-YRa";</note>
+      </trans-unit>
+      <trans-unit id="Tet-Sj-jea.ibShadowedToolTip">
+        <source>Up</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Up"; ObjectID = "Tet-Sj-jea";</note>
+      </trans-unit>
+      <trans-unit id="V1x-gt-Gxz.ibShadowedToolTip">
+        <source>Green</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Green"; ObjectID = "V1x-gt-Gxz";</note>
+      </trans-unit>
+      <trans-unit id="ZaS-A3-CPt.title">
+        <source>0</source>
+        <note>Class = "NSButtonCell"; title = "0"; ObjectID = "ZaS-A3-CPt";</note>
+      </trans-unit>
+      <trans-unit id="amn-uM-glM.title">
+        <source>3</source>
+        <note>Class = "NSButtonCell"; title = "3"; ObjectID = "amn-uM-glM";</note>
+      </trans-unit>
+      <trans-unit id="fpP-Dn-KI9.ibShadowedToolTip">
+        <source>Yellow</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Yellow"; ObjectID = "fpP-Dn-KI9";</note>
+      </trans-unit>
+      <trans-unit id="pMB-Pi-4OS.ibShadowedToolTip">
+        <source>Blue</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Blue"; ObjectID = "pMB-Pi-4OS";</note>
+      </trans-unit>
+      <trans-unit id="x7v-cc-KCJ.title">
+        <source>8</source>
+        <note>Class = "NSButtonCell"; title = "8"; ObjectID = "x7v-cc-KCJ";</note>
+      </trans-unit>
+      <trans-unit id="zPU-9P-klb.ibShadowedToolTip">
+        <source>Down</source>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Down"; ObjectID = "zPU-9P-klb";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/ISO639.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="Abkhazian">
+        <source>Abkhazian</source>
+        <note>ISO 639-2/T abk</note>
+      </trans-unit>
+      <trans-unit id="Achinese">
+        <source>Achinese</source>
+        <note>ISO 639-2/T ace</note>
+      </trans-unit>
+      <trans-unit id="Acoli">
+        <source>Acoli</source>
+        <note>ISO 639-2/T ach</note>
+      </trans-unit>
+      <trans-unit id="Adangme">
+        <source>Adangme</source>
+        <note>ISO 639-2/T ada</note>
+      </trans-unit>
+      <trans-unit id="Afar">
+        <source>Afar</source>
+        <note>ISO 639-2/T aar</note>
+      </trans-unit>
+      <trans-unit id="Afrihili">
+        <source>Afrihili</source>
+        <note>ISO 639-2/T afh</note>
+      </trans-unit>
+      <trans-unit id="Afrikaans">
+        <source>Afrikaans</source>
+        <note>ISO 639-2/T afr</note>
+      </trans-unit>
+      <trans-unit id="Afro-Asiatic languages">
+        <source>Afro-Asiatic languages</source>
+        <note>ISO 639-2/T afa</note>
+      </trans-unit>
+      <trans-unit id="Akan">
+        <source>Akan</source>
+        <note>ISO 639-2/T aka</note>
+      </trans-unit>
+      <trans-unit id="Akkadian">
+        <source>Akkadian</source>
+        <note>ISO 639-2/T akk</note>
+      </trans-unit>
+      <trans-unit id="Albanian">
+        <source>Albanian</source>
+        <note>ISO 639-2/T sqi</note>
+      </trans-unit>
+      <trans-unit id="Aleut">
+        <source>Aleut</source>
+        <note>ISO 639-2/T ale</note>
+      </trans-unit>
+      <trans-unit id="Algonquian languages">
+        <source>Algonquian languages</source>
+        <note>ISO 639-2/T alg</note>
+      </trans-unit>
+      <trans-unit id="Altaic languages">
+        <source>Altaic languages</source>
+        <note>ISO 639-2/T tut</note>
+      </trans-unit>
+      <trans-unit id="Amharic">
+        <source>Amharic</source>
+        <note>ISO 639-2/T amh</note>
+      </trans-unit>
+      <trans-unit id="Ancient Egyptian">
+        <source>Ancient Egyptian</source>
+        <note>ISO 639-2/T egy</note>
+      </trans-unit>
+      <trans-unit id="Ancient Greek">
+        <source>Ancient Greek</source>
+        <note>ISO 639-2/T grc</note>
+      </trans-unit>
+      <trans-unit id="Apache languages">
+        <source>Apache languages</source>
+        <note>ISO 639-2/T apa</note>
+      </trans-unit>
+      <trans-unit id="Arabic">
+        <source>Arabic</source>
+        <note>ISO 639-2/T ara</note>
+      </trans-unit>
+      <trans-unit id="Aramaic">
+        <source>Aramaic</source>
+        <note>ISO 639-2/T arc</note>
+      </trans-unit>
+      <trans-unit id="Arapaho">
+        <source>Arapaho</source>
+        <note>ISO 639-2/T arp</note>
+      </trans-unit>
+      <trans-unit id="Arawak">
+        <source>Arawak</source>
+        <note>ISO 639-2/T arw</note>
+      </trans-unit>
+      <trans-unit id="Armenian">
+        <source>Armenian</source>
+        <note>ISO 639-2/T hye</note>
+      </trans-unit>
+      <trans-unit id="Artificial languages">
+        <source>Artificial languages</source>
+        <note>ISO 639-2/T art</note>
+      </trans-unit>
+      <trans-unit id="Assamese">
+        <source>Assamese</source>
+        <note>ISO 639-2/T asm</note>
+      </trans-unit>
+      <trans-unit id="Athapascan languages">
+        <source>Athapascan languages</source>
+        <note>ISO 639-2/T ath</note>
+      </trans-unit>
+      <trans-unit id="Australian languages">
+        <source>Australian languages</source>
+        <note>ISO 639-2/T aus</note>
+      </trans-unit>
+      <trans-unit id="Austronesian languages">
+        <source>Austronesian languages</source>
+        <note>ISO 639-2/T map</note>
+      </trans-unit>
+      <trans-unit id="Avaric">
+        <source>Avaric</source>
+        <note>ISO 639-2/T ava</note>
+      </trans-unit>
+      <trans-unit id="Avestan">
+        <source>Avestan</source>
+        <note>ISO 639-2/T ave</note>
+      </trans-unit>
+      <trans-unit id="Awadhi">
+        <source>Awadhi</source>
+        <note>ISO 639-2/T awa</note>
+      </trans-unit>
+      <trans-unit id="Aymara">
+        <source>Aymara</source>
+        <note>ISO 639-2/T aym</note>
+      </trans-unit>
+      <trans-unit id="Azerbaijani">
+        <source>Azerbaijani</source>
+        <note>ISO 639-2/T aze</note>
+      </trans-unit>
+      <trans-unit id="Balinese">
+        <source>Balinese</source>
+        <note>ISO 639-2/T ban</note>
+      </trans-unit>
+      <trans-unit id="Baltic languages">
+        <source>Baltic languages</source>
+        <note>ISO 639-2/T bat</note>
+      </trans-unit>
+      <trans-unit id="Baluchi">
+        <source>Baluchi</source>
+        <note>ISO 639-2/T bal</note>
+      </trans-unit>
+      <trans-unit id="Bambara">
+        <source>Bambara</source>
+        <note>ISO 639-2/T bam</note>
+      </trans-unit>
+      <trans-unit id="Bamileke languages">
+        <source>Bamileke languages</source>
+        <note>ISO 639-2/T bai</note>
+      </trans-unit>
+      <trans-unit id="Banda languages">
+        <source>Banda languages</source>
+        <note>ISO 639-2/T bad</note>
+      </trans-unit>
+      <trans-unit id="Bantu languages">
+        <source>Bantu languages</source>
+        <note>ISO 639-2/T bnt</note>
+      </trans-unit>
+      <trans-unit id="Basaa">
+        <source>Basaa</source>
+        <note>ISO 639-2/T bas</note>
+      </trans-unit>
+      <trans-unit id="Bashkir">
+        <source>Bashkir</source>
+        <note>ISO 639-2/T bak</note>
+      </trans-unit>
+      <trans-unit id="Basque">
+        <source>Basque</source>
+        <note>ISO 639-2/T eus</note>
+      </trans-unit>
+      <trans-unit id="Batak languages">
+        <source>Batak languages</source>
+        <note>ISO 639-2/T btk</note>
+      </trans-unit>
+      <trans-unit id="Beja">
+        <source>Beja</source>
+        <note>ISO 639-2/T bej</note>
+      </trans-unit>
+      <trans-unit id="Belarusian">
+        <source>Belarusian</source>
+        <note>ISO 639-2/T bel</note>
+      </trans-unit>
+      <trans-unit id="Bemba">
+        <source>Bemba</source>
+        <note>ISO 639-2/T bem</note>
+      </trans-unit>
+      <trans-unit id="Bengali">
+        <source>Bengali</source>
+        <note>ISO 639-2/T ben</note>
+      </trans-unit>
+      <trans-unit id="Berber languages">
+        <source>Berber languages</source>
+        <note>ISO 639-2/T ber</note>
+      </trans-unit>
+      <trans-unit id="Bhojpuri">
+        <source>Bhojpuri</source>
+        <note>ISO 639-2/T bho</note>
+      </trans-unit>
+      <trans-unit id="Bihari languages">
+        <source>Bihari languages</source>
+        <note>ISO 639-2/T bih</note>
+      </trans-unit>
+      <trans-unit id="Bikol">
+        <source>Bikol</source>
+        <note>ISO 639-2/T bik</note>
+      </trans-unit>
+      <trans-unit id="Bini">
+        <source>Bini</source>
+        <note>ISO 639-2/T bin</note>
+      </trans-unit>
+      <trans-unit id="Bislama">
+        <source>Bislama</source>
+        <note>ISO 639-2/T bis</note>
+      </trans-unit>
+      <trans-unit id="Braj">
+        <source>Braj</source>
+        <note>ISO 639-2/T bra</note>
+      </trans-unit>
+      <trans-unit id="Breton">
+        <source>Breton</source>
+        <note>ISO 639-2/T bre</note>
+      </trans-unit>
+      <trans-unit id="Buginese">
+        <source>Buginese</source>
+        <note>ISO 639-2/T bug</note>
+      </trans-unit>
+      <trans-unit id="Bulgarian">
+        <source>Bulgarian</source>
+        <note>ISO 639-2/T bul</note>
+      </trans-unit>
+      <trans-unit id="Buriat">
+        <source>Buriat</source>
+        <note>ISO 639-2/T bua</note>
+      </trans-unit>
+      <trans-unit id="Burmese">
+        <source>Burmese</source>
+        <note>ISO 639-2/T mya</note>
+      </trans-unit>
+      <trans-unit id="Caddo">
+        <source>Caddo</source>
+        <note>ISO 639-2/T cad</note>
+      </trans-unit>
+      <trans-unit id="Carib">
+        <source>Carib</source>
+        <note>ISO 639-2/T car</note>
+      </trans-unit>
+      <trans-unit id="Catalan">
+        <source>Catalan</source>
+        <note>ISO 639-2/T cat</note>
+      </trans-unit>
+      <trans-unit id="Caucasian languages">
+        <source>Caucasian languages</source>
+        <note>ISO 639-2/T cau</note>
+      </trans-unit>
+      <trans-unit id="Cebuano">
+        <source>Cebuano</source>
+        <note>ISO 639-2/T ceb</note>
+      </trans-unit>
+      <trans-unit id="Celtic languages">
+        <source>Celtic languages</source>
+        <note>ISO 639-2/T cel</note>
+      </trans-unit>
+      <trans-unit id="Central American Indian languages">
+        <source>Central American Indian languages</source>
+        <note>ISO 639-2/T cai</note>
+      </trans-unit>
+      <trans-unit id="Chagatai">
+        <source>Chagatai</source>
+        <note>ISO 639-2/T chg</note>
+      </trans-unit>
+      <trans-unit id="Chamic languages">
+        <source>Chamic languages</source>
+        <note>ISO 639-2/T cmc</note>
+      </trans-unit>
+      <trans-unit id="Chamorro">
+        <source>Chamorro</source>
+        <note>ISO 639-2/T cha</note>
+      </trans-unit>
+      <trans-unit id="Chechen">
+        <source>Chechen</source>
+        <note>ISO 639-2/T che</note>
+      </trans-unit>
+      <trans-unit id="Cherokee">
+        <source>Cherokee</source>
+        <note>ISO 639-2/T chr</note>
+      </trans-unit>
+      <trans-unit id="Cheyenne">
+        <source>Cheyenne</source>
+        <note>ISO 639-2/T chy</note>
+      </trans-unit>
+      <trans-unit id="Chibcha">
+        <source>Chibcha</source>
+        <note>ISO 639-2/T chb</note>
+      </trans-unit>
+      <trans-unit id="Chinese">
+        <source>Chinese</source>
+        <note>ISO 639-2/T zho</note>
+      </trans-unit>
+      <trans-unit id="Chinook Jargon">
+        <source>Chinook Jargon</source>
+        <note>ISO 639-2/T chn</note>
+      </trans-unit>
+      <trans-unit id="Chipewyan">
+        <source>Chipewyan</source>
+        <note>ISO 639-2/T chp</note>
+      </trans-unit>
+      <trans-unit id="Choctaw">
+        <source>Choctaw</source>
+        <note>ISO 639-2/T cho</note>
+      </trans-unit>
+      <trans-unit id="Church Slavic">
+        <source>Church Slavic</source>
+        <note>ISO 639-2/T chu</note>
+      </trans-unit>
+      <trans-unit id="Chuukese">
+        <source>Chuukese</source>
+        <note>ISO 639-2/T chk</note>
+      </trans-unit>
+      <trans-unit id="Chuvash">
+        <source>Chuvash</source>
+        <note>ISO 639-2/T chv</note>
+      </trans-unit>
+      <trans-unit id="Coptic">
+        <source>Coptic</source>
+        <note>ISO 639-2/T cop</note>
+      </trans-unit>
+      <trans-unit id="Cornish">
+        <source>Cornish</source>
+        <note>ISO 639-2/T cor</note>
+      </trans-unit>
+      <trans-unit id="Corsican">
+        <source>Corsican</source>
+        <note>ISO 639-2/T cos</note>
+      </trans-unit>
+      <trans-unit id="Cree">
+        <source>Cree</source>
+        <note>ISO 639-2/T cre</note>
+      </trans-unit>
+      <trans-unit id="Creek">
+        <source>Creek</source>
+        <note>ISO 639-2/T mus</note>
+      </trans-unit>
+      <trans-unit id="Creoles and pidgins">
+        <source>Creoles and pidgins</source>
+        <note>ISO 639-2/T crp</note>
+      </trans-unit>
+      <trans-unit id="Croatian">
+        <source>Croatian</source>
+        <note>ISO 639-2/T hrv</note>
+      </trans-unit>
+      <trans-unit id="Cushitic languages">
+        <source>Cushitic languages</source>
+        <note>ISO 639-2/T cus</note>
+      </trans-unit>
+      <trans-unit id="Czech">
+        <source>Czech</source>
+        <note>ISO 639-2/T ces</note>
+      </trans-unit>
+      <trans-unit id="Dakota">
+        <source>Dakota</source>
+        <note>ISO 639-2/T dak</note>
+      </trans-unit>
+      <trans-unit id="Danish">
+        <source>Danish</source>
+        <note>ISO 639-2/T dan</note>
+      </trans-unit>
+      <trans-unit id="Delaware">
+        <source>Delaware</source>
+        <note>ISO 639-2/T del</note>
+      </trans-unit>
+      <trans-unit id="Dinka">
+        <source>Dinka</source>
+        <note>ISO 639-2/T din</note>
+      </trans-unit>
+      <trans-unit id="Divehi">
+        <source>Divehi</source>
+        <note>ISO 639-2/T div</note>
+      </trans-unit>
+      <trans-unit id="Dogri">
+        <source>Dogri</source>
+        <note>ISO 639-2/T doi</note>
+      </trans-unit>
+      <trans-unit id="Dogrib">
+        <source>Dogrib</source>
+        <note>ISO 639-2/T dgr</note>
+      </trans-unit>
+      <trans-unit id="Dravidian languages">
+        <source>Dravidian languages</source>
+        <note>ISO 639-2/T dra</note>
+      </trans-unit>
+      <trans-unit id="Duala">
+        <source>Duala</source>
+        <note>ISO 639-2/T dua</note>
+      </trans-unit>
+      <trans-unit id="Dutch">
+        <source>Dutch</source>
+        <note>ISO 639-2/T nld</note>
+      </trans-unit>
+      <trans-unit id="Dyula">
+        <source>Dyula</source>
+        <note>ISO 639-2/T dyu</note>
+      </trans-unit>
+      <trans-unit id="Dzongkha">
+        <source>Dzongkha</source>
+        <note>ISO 639-2/T dzo</note>
+      </trans-unit>
+      <trans-unit id="Efik">
+        <source>Efik</source>
+        <note>ISO 639-2/T efi</note>
+      </trans-unit>
+      <trans-unit id="Ekajuk">
+        <source>Ekajuk</source>
+        <note>ISO 639-2/T eka</note>
+      </trans-unit>
+      <trans-unit id="Elamite">
+        <source>Elamite</source>
+        <note>ISO 639-2/T elx</note>
+      </trans-unit>
+      <trans-unit id="English">
+        <source>English</source>
+        <note>ISO 639-2/T eng</note>
+      </trans-unit>
+      <trans-unit id="English based Creoles and pidgins">
+        <source>English based Creoles and pidgins</source>
+        <note>ISO 639-2/T cpe</note>
+      </trans-unit>
+      <trans-unit id="Esperanto">
+        <source>Esperanto</source>
+        <note>ISO 639-2/T epo</note>
+      </trans-unit>
+      <trans-unit id="Estonian">
+        <source>Estonian</source>
+        <note>ISO 639-2/T est</note>
+      </trans-unit>
+      <trans-unit id="Ewe">
+        <source>Ewe</source>
+        <note>ISO 639-2/T ewe</note>
+      </trans-unit>
+      <trans-unit id="Ewondo">
+        <source>Ewondo</source>
+        <note>ISO 639-2/T ewo</note>
+      </trans-unit>
+      <trans-unit id="Fang">
+        <source>Fang</source>
+        <note>ISO 639-2/T fan</note>
+      </trans-unit>
+      <trans-unit id="Fanti">
+        <source>Fanti</source>
+        <note>ISO 639-2/T fat</note>
+      </trans-unit>
+      <trans-unit id="Faroese">
+        <source>Faroese</source>
+        <note>ISO 639-2/T fao</note>
+      </trans-unit>
+      <trans-unit id="Fijian">
+        <source>Fijian</source>
+        <note>ISO 639-2/T fij</note>
+      </trans-unit>
+      <trans-unit id="Finnish">
+        <source>Finnish</source>
+        <note>ISO 639-2/T fin</note>
+      </trans-unit>
+      <trans-unit id="Finno-Ugrian languages">
+        <source>Finno-Ugrian languages</source>
+        <note>ISO 639-2/T fiu</note>
+      </trans-unit>
+      <trans-unit id="Fon">
+        <source>Fon</source>
+        <note>ISO 639-2/T fon</note>
+      </trans-unit>
+      <trans-unit id="French">
+        <source>French</source>
+        <note>ISO 639-2/T fra</note>
+      </trans-unit>
+      <trans-unit id="French-Based Creoles and pidgins">
+        <source>French-Based Creoles and pidgins</source>
+        <note>ISO 639-2/T cpf</note>
+      </trans-unit>
+      <trans-unit id="Friulian">
+        <source>Friulian</source>
+        <note>ISO 639-2/T fur</note>
+      </trans-unit>
+      <trans-unit id="Fulah">
+        <source>Fulah</source>
+        <note>ISO 639-2/T ful</note>
+      </trans-unit>
+      <trans-unit id="Ga">
+        <source>Ga</source>
+        <note>ISO 639-2/T gaa</note>
+      </trans-unit>
+      <trans-unit id="Galician">
+        <source>Galician</source>
+        <note>ISO 639-2/T glg</note>
+      </trans-unit>
+      <trans-unit id="Ganda">
+        <source>Ganda</source>
+        <note>ISO 639-2/T lug</note>
+      </trans-unit>
+      <trans-unit id="Gayo">
+        <source>Gayo</source>
+        <note>ISO 639-2/T gay</note>
+      </trans-unit>
+      <trans-unit id="Gbaya">
+        <source>Gbaya</source>
+        <note>ISO 639-2/T gba</note>
+      </trans-unit>
+      <trans-unit id="Geez">
+        <source>Geez</source>
+        <note>ISO 639-2/T gez</note>
+      </trans-unit>
+      <trans-unit id="Georgian">
+        <source>Georgian</source>
+        <note>ISO 639-2/T kat</note>
+      </trans-unit>
+      <trans-unit id="German">
+        <source>German</source>
+        <note>ISO 639-2/T deu</note>
+      </trans-unit>
+      <trans-unit id="Germanic languages">
+        <source>Germanic languages</source>
+        <note>ISO 639-2/T gem</note>
+      </trans-unit>
+      <trans-unit id="Gilbertese">
+        <source>Gilbertese</source>
+        <note>ISO 639-2/T gil</note>
+      </trans-unit>
+      <trans-unit id="Gondi">
+        <source>Gondi</source>
+        <note>ISO 639-2/T gon</note>
+      </trans-unit>
+      <trans-unit id="Gorontalo">
+        <source>Gorontalo</source>
+        <note>ISO 639-2/T gor</note>
+      </trans-unit>
+      <trans-unit id="Gothic">
+        <source>Gothic</source>
+        <note>ISO 639-2/T got</note>
+      </trans-unit>
+      <trans-unit id="Grebo">
+        <source>Grebo</source>
+        <note>ISO 639-2/T grb</note>
+      </trans-unit>
+      <trans-unit id="Greek">
+        <source>Greek</source>
+        <note>ISO 639-2/T ell</note>
+      </trans-unit>
+      <trans-unit id="Guarani">
+        <source>Guarani</source>
+        <note>ISO 639-2/T grn</note>
+      </trans-unit>
+      <trans-unit id="Gujarati">
+        <source>Gujarati</source>
+        <note>ISO 639-2/T guj</note>
+      </trans-unit>
+      <trans-unit id="Gwichʼin">
+        <source>Gwichʼin</source>
+        <note>ISO 639-2/T gwi</note>
+      </trans-unit>
+      <trans-unit id="Haida">
+        <source>Haida</source>
+        <note>ISO 639-2/T hai</note>
+      </trans-unit>
+      <trans-unit id="Hausa">
+        <source>Hausa</source>
+        <note>ISO 639-2/T hau</note>
+      </trans-unit>
+      <trans-unit id="Hawaiian">
+        <source>Hawaiian</source>
+        <note>ISO 639-2/T haw</note>
+      </trans-unit>
+      <trans-unit id="Hebrew">
+        <source>Hebrew</source>
+        <note>ISO 639-2/T heb</note>
+      </trans-unit>
+      <trans-unit id="Herero">
+        <source>Herero</source>
+        <note>ISO 639-2/T her</note>
+      </trans-unit>
+      <trans-unit id="Hiligaynon">
+        <source>Hiligaynon</source>
+        <note>ISO 639-2/T hil</note>
+      </trans-unit>
+      <trans-unit id="Himachali languages">
+        <source>Himachali languages</source>
+        <note>ISO 639-2/T him</note>
+      </trans-unit>
+      <trans-unit id="Hindi">
+        <source>Hindi</source>
+        <note>ISO 639-2/T hin</note>
+      </trans-unit>
+      <trans-unit id="Hiri Motu">
+        <source>Hiri Motu</source>
+        <note>ISO 639-2/T hmo</note>
+      </trans-unit>
+      <trans-unit id="Hittite">
+        <source>Hittite</source>
+        <note>ISO 639-2/T hit</note>
+      </trans-unit>
+      <trans-unit id="Hmong">
+        <source>Hmong</source>
+        <note>ISO 639-2/T hmn</note>
+      </trans-unit>
+      <trans-unit id="Hungarian">
+        <source>Hungarian</source>
+        <note>ISO 639-2/T hun</note>
+      </trans-unit>
+      <trans-unit id="Hupa">
+        <source>Hupa</source>
+        <note>ISO 639-2/T hup</note>
+      </trans-unit>
+      <trans-unit id="Iban">
+        <source>Iban</source>
+        <note>ISO 639-2/T iba</note>
+      </trans-unit>
+      <trans-unit id="Icelandic">
+        <source>Icelandic</source>
+        <note>ISO 639-2/T isl</note>
+      </trans-unit>
+      <trans-unit id="Igbo">
+        <source>Igbo</source>
+        <note>ISO 639-2/T ibo</note>
+      </trans-unit>
+      <trans-unit id="Ijo languages">
+        <source>Ijo languages</source>
+        <note>ISO 639-2/T ijo</note>
+      </trans-unit>
+      <trans-unit id="Iloko">
+        <source>Iloko</source>
+        <note>ISO 639-2/T ilo</note>
+      </trans-unit>
+      <trans-unit id="Indic languages">
+        <source>Indic languages</source>
+        <note>ISO 639-2/T inc</note>
+      </trans-unit>
+      <trans-unit id="Indo-European languages">
+        <source>Indo-European languages</source>
+        <note>ISO 639-2/T ine</note>
+      </trans-unit>
+      <trans-unit id="Indonesian">
+        <source>Indonesian</source>
+        <note>ISO 639-2/T ind</note>
+      </trans-unit>
+      <trans-unit id="Interlingua">
+        <source>Interlingua</source>
+        <note>ISO 639-2/T ina</note>
+      </trans-unit>
+      <trans-unit id="Interlingue">
+        <source>Interlingue</source>
+        <note>ISO 639-2/T ile</note>
+      </trans-unit>
+      <trans-unit id="Inuktitut">
+        <source>Inuktitut</source>
+        <note>ISO 639-2/T iku</note>
+      </trans-unit>
+      <trans-unit id="Inupiaq">
+        <source>Inupiaq</source>
+        <note>ISO 639-2/T ipk</note>
+      </trans-unit>
+      <trans-unit id="Iranian languages">
+        <source>Iranian languages</source>
+        <note>ISO 639-2/T ira</note>
+      </trans-unit>
+      <trans-unit id="Irish">
+        <source>Irish</source>
+        <note>ISO 639-2/T gle</note>
+      </trans-unit>
+      <trans-unit id="Iroquoian languages">
+        <source>Iroquoian languages</source>
+        <note>ISO 639-2/T iro</note>
+      </trans-unit>
+      <trans-unit id="Italian">
+        <source>Italian</source>
+        <note>ISO 639-2/T ita</note>
+      </trans-unit>
+      <trans-unit id="Japanese">
+        <source>Japanese</source>
+        <note>ISO 639-2/T jpn</note>
+      </trans-unit>
+      <trans-unit id="Javanese">
+        <source>Javanese</source>
+        <note>ISO 639-2/T jaw</note>
+      </trans-unit>
+      <trans-unit id="Judeo-Arabic">
+        <source>Judeo-Arabic</source>
+        <note>ISO 639-2/T jrb</note>
+      </trans-unit>
+      <trans-unit id="Judeo-Persian">
+        <source>Judeo-Persian</source>
+        <note>ISO 639-2/T jpr</note>
+      </trans-unit>
+      <trans-unit id="Kabyle">
+        <source>Kabyle</source>
+        <note>ISO 639-2/T kab</note>
+      </trans-unit>
+      <trans-unit id="Kachin">
+        <source>Kachin</source>
+        <note>ISO 639-2/T kac</note>
+      </trans-unit>
+      <trans-unit id="Kalaallisut">
+        <source>Kalaallisut</source>
+        <note>ISO 639-2/T kal</note>
+      </trans-unit>
+      <trans-unit id="Kamba">
+        <source>Kamba</source>
+        <note>ISO 639-2/T kam</note>
+      </trans-unit>
+      <trans-unit id="Kannada">
+        <source>Kannada</source>
+        <note>ISO 639-2/T kan</note>
+      </trans-unit>
+      <trans-unit id="Kanuri">
+        <source>Kanuri</source>
+        <note>ISO 639-2/T kau</note>
+      </trans-unit>
+      <trans-unit id="Kara-Kalpak">
+        <source>Kara-Kalpak</source>
+        <note>ISO 639-2/T kaa</note>
+      </trans-unit>
+      <trans-unit id="Karen languages">
+        <source>Karen languages</source>
+        <note>ISO 639-2/T kar</note>
+      </trans-unit>
+      <trans-unit id="Kashmiri">
+        <source>Kashmiri</source>
+        <note>ISO 639-2/T kas</note>
+      </trans-unit>
+      <trans-unit id="Kawi">
+        <source>Kawi</source>
+        <note>ISO 639-2/T kaw</note>
+      </trans-unit>
+      <trans-unit id="Kazakh">
+        <source>Kazakh</source>
+        <note>ISO 639-2/T kaz</note>
+      </trans-unit>
+      <trans-unit id="Khasi">
+        <source>Khasi</source>
+        <note>ISO 639-2/T kha</note>
+      </trans-unit>
+      <trans-unit id="Khmer">
+        <source>Khmer</source>
+        <note>ISO 639-2/T khm</note>
+      </trans-unit>
+      <trans-unit id="Khoisan languages">
+        <source>Khoisan languages</source>
+        <note>ISO 639-2/T khi</note>
+      </trans-unit>
+      <trans-unit id="Khotanese">
+        <source>Khotanese</source>
+        <note>ISO 639-2/T kho</note>
+      </trans-unit>
+      <trans-unit id="Kikuyu">
+        <source>Kikuyu</source>
+        <note>ISO 639-2/T kik</note>
+      </trans-unit>
+      <trans-unit id="Kimbundu">
+        <source>Kimbundu</source>
+        <note>ISO 639-2/T kmb</note>
+      </trans-unit>
+      <trans-unit id="Kinyarwanda">
+        <source>Kinyarwanda</source>
+        <note>ISO 639-2/T kin</note>
+      </trans-unit>
+      <trans-unit id="Komi">
+        <source>Komi</source>
+        <note>ISO 639-2/T kom</note>
+      </trans-unit>
+      <trans-unit id="Kongo">
+        <source>Kongo</source>
+        <note>ISO 639-2/T kon</note>
+      </trans-unit>
+      <trans-unit id="Konkani">
+        <source>Konkani</source>
+        <note>ISO 639-2/T kok</note>
+      </trans-unit>
+      <trans-unit id="Korean">
+        <source>Korean</source>
+        <note>ISO 639-2/T kor</note>
+      </trans-unit>
+      <trans-unit id="Kosraean">
+        <source>Kosraean</source>
+        <note>ISO 639-2/T kos</note>
+      </trans-unit>
+      <trans-unit id="Kpelle">
+        <source>Kpelle</source>
+        <note>ISO 639-2/T kpe</note>
+      </trans-unit>
+      <trans-unit id="Kru languages">
+        <source>Kru languages</source>
+        <note>ISO 639-2/T kro</note>
+      </trans-unit>
+      <trans-unit id="Kuanyama">
+        <source>Kuanyama</source>
+        <note>ISO 639-2/T kua</note>
+      </trans-unit>
+      <trans-unit id="Kumyk">
+        <source>Kumyk</source>
+        <note>ISO 639-2/T kum</note>
+      </trans-unit>
+      <trans-unit id="Kurdish">
+        <source>Kurdish</source>
+        <note>ISO 639-2/T kur</note>
+      </trans-unit>
+      <trans-unit id="Kurukh">
+        <source>Kurukh</source>
+        <note>ISO 639-2/T kru</note>
+      </trans-unit>
+      <trans-unit id="Kutenai">
+        <source>Kutenai</source>
+        <note>ISO 639-2/T kut</note>
+      </trans-unit>
+      <trans-unit id="Kyrgyz">
+        <source>Kyrgyz</source>
+        <note>ISO 639-2/T kir</note>
+      </trans-unit>
+      <trans-unit id="Ladino">
+        <source>Ladino</source>
+        <note>ISO 639-2/T lad</note>
+      </trans-unit>
+      <trans-unit id="Lahnda">
+        <source>Lahnda</source>
+        <note>ISO 639-2/T lah</note>
+      </trans-unit>
+      <trans-unit id="Lamba">
+        <source>Lamba</source>
+        <note>ISO 639-2/T lam</note>
+      </trans-unit>
+      <trans-unit id="Land Dayak languages">
+        <source>Land Dayak languages</source>
+        <note>ISO 639-2/T day</note>
+      </trans-unit>
+      <trans-unit id="Lao">
+        <source>Lao</source>
+        <note>ISO 639-2/T lao</note>
+      </trans-unit>
+      <trans-unit id="Latin">
+        <source>Latin</source>
+        <note>ISO 639-2/T lat</note>
+      </trans-unit>
+      <trans-unit id="Latvian">
+        <source>Latvian</source>
+        <note>ISO 639-2/T lav</note>
+      </trans-unit>
+      <trans-unit id="Lezghian">
+        <source>Lezghian</source>
+        <note>ISO 639-2/T lez</note>
+      </trans-unit>
+      <trans-unit id="Lingala">
+        <source>Lingala</source>
+        <note>ISO 639-2/T lin</note>
+      </trans-unit>
+      <trans-unit id="Lithuanian">
+        <source>Lithuanian</source>
+        <note>ISO 639-2/T lit</note>
+      </trans-unit>
+      <trans-unit id="Lozi">
+        <source>Lozi</source>
+        <note>ISO 639-2/T loz</note>
+      </trans-unit>
+      <trans-unit id="Luba-Katanga">
+        <source>Luba-Katanga</source>
+        <note>ISO 639-2/T lub</note>
+      </trans-unit>
+      <trans-unit id="Luba-Lulua">
+        <source>Luba-Lulua</source>
+        <note>ISO 639-2/T lua</note>
+      </trans-unit>
+      <trans-unit id="Luiseno">
+        <source>Luiseno</source>
+        <note>ISO 639-2/T lui</note>
+      </trans-unit>
+      <trans-unit id="Lunda">
+        <source>Lunda</source>
+        <note>ISO 639-2/T lun</note>
+      </trans-unit>
+      <trans-unit id="Luo">
+        <source>Luo</source>
+        <note>ISO 639-2/T luo</note>
+      </trans-unit>
+      <trans-unit id="Luxembourgish">
+        <source>Luxembourgish</source>
+        <note>ISO 639-2/T ltz</note>
+      </trans-unit>
+      <trans-unit id="Macedonian">
+        <source>Macedonian</source>
+        <note>ISO 639-2/T mkd</note>
+      </trans-unit>
+      <trans-unit id="Madurese">
+        <source>Madurese</source>
+        <note>ISO 639-2/T mad</note>
+      </trans-unit>
+      <trans-unit id="Magahi">
+        <source>Magahi</source>
+        <note>ISO 639-2/T mag</note>
+      </trans-unit>
+      <trans-unit id="Maithili">
+        <source>Maithili</source>
+        <note>ISO 639-2/T mai</note>
+      </trans-unit>
+      <trans-unit id="Makasar">
+        <source>Makasar</source>
+        <note>ISO 639-2/T mak</note>
+      </trans-unit>
+      <trans-unit id="Malagasy">
+        <source>Malagasy</source>
+        <note>ISO 639-2/T mlg</note>
+      </trans-unit>
+      <trans-unit id="Malay">
+        <source>Malay</source>
+        <note>ISO 639-2/T msa</note>
+      </trans-unit>
+      <trans-unit id="Malayalam">
+        <source>Malayalam</source>
+        <note>ISO 639-2/T mal</note>
+      </trans-unit>
+      <trans-unit id="Maltese">
+        <source>Maltese</source>
+        <note>ISO 639-2/T mlt</note>
+      </trans-unit>
+      <trans-unit id="Mandar">
+        <source>Mandar</source>
+        <note>ISO 639-2/T mdr</note>
+      </trans-unit>
+      <trans-unit id="Mandingo">
+        <source>Mandingo</source>
+        <note>ISO 639-2/T man</note>
+      </trans-unit>
+      <trans-unit id="Manipuri">
+        <source>Manipuri</source>
+        <note>ISO 639-2/T mni</note>
+      </trans-unit>
+      <trans-unit id="Manobo languages">
+        <source>Manobo languages</source>
+        <note>ISO 639-2/T mno</note>
+      </trans-unit>
+      <trans-unit id="Manx">
+        <source>Manx</source>
+        <note>ISO 639-2/T glv</note>
+      </trans-unit>
+      <trans-unit id="Maori">
+        <source>Maori</source>
+        <note>ISO 639-2/T mri</note>
+      </trans-unit>
+      <trans-unit id="Mapuche">
+        <source>Mapuche</source>
+        <note>ISO 639-2/T arn</note>
+      </trans-unit>
+      <trans-unit id="Marathi">
+        <source>Marathi</source>
+        <note>ISO 639-2/T mar</note>
+      </trans-unit>
+      <trans-unit id="Mari">
+        <source>Mari</source>
+        <note>ISO 639-2/T chm</note>
+      </trans-unit>
+      <trans-unit id="Marshallese">
+        <source>Marshallese</source>
+        <note>ISO 639-2/T mah</note>
+      </trans-unit>
+      <trans-unit id="Marwari">
+        <source>Marwari</source>
+        <note>ISO 639-2/T mwr</note>
+      </trans-unit>
+      <trans-unit id="Masai">
+        <source>Masai</source>
+        <note>ISO 639-2/T mas</note>
+      </trans-unit>
+      <trans-unit id="Mayan languages">
+        <source>Mayan languages</source>
+        <note>ISO 639-2/T myn</note>
+      </trans-unit>
+      <trans-unit id="Mende">
+        <source>Mende</source>
+        <note>ISO 639-2/T men</note>
+      </trans-unit>
+      <trans-unit id="Micmac">
+        <source>Micmac</source>
+        <note>ISO 639-2/T mic</note>
+      </trans-unit>
+      <trans-unit id="Middle Dutch">
+        <source>Middle Dutch</source>
+        <note>ISO 639-2/T dum</note>
+      </trans-unit>
+      <trans-unit id="Middle English">
+        <source>Middle English</source>
+        <note>ISO 639-2/T enm</note>
+      </trans-unit>
+      <trans-unit id="Middle French">
+        <source>Middle French</source>
+        <note>ISO 639-2/T frm</note>
+      </trans-unit>
+      <trans-unit id="Middle High German">
+        <source>Middle High German</source>
+        <note>ISO 639-2/T gmh</note>
+      </trans-unit>
+      <trans-unit id="Middle Irish">
+        <source>Middle Irish</source>
+        <note>ISO 639-2/T mga</note>
+      </trans-unit>
+      <trans-unit id="Minangkabau">
+        <source>Minangkabau</source>
+        <note>ISO 639-2/T min</note>
+      </trans-unit>
+      <trans-unit id="Mizo">
+        <source>Mizo</source>
+        <note>ISO 639-2/T lus</note>
+      </trans-unit>
+      <trans-unit id="Mohawk">
+        <source>Mohawk</source>
+        <note>ISO 639-2/T moh</note>
+      </trans-unit>
+      <trans-unit id="Moldavian">
+        <source>Moldavian</source>
+        <note>ISO 639-2/T mol</note>
+      </trans-unit>
+      <trans-unit id="Mon-Khmer languages">
+        <source>Mon-Khmer languages</source>
+        <note>ISO 639-2/T mkh</note>
+      </trans-unit>
+      <trans-unit id="Mongo">
+        <source>Mongo</source>
+        <note>ISO 639-2/T lol</note>
+      </trans-unit>
+      <trans-unit id="Mongolian">
+        <source>Mongolian</source>
+        <note>ISO 639-2/T mon</note>
+      </trans-unit>
+      <trans-unit id="Mossi">
+        <source>Mossi</source>
+        <note>ISO 639-2/T mos</note>
+      </trans-unit>
+      <trans-unit id="Multiple languages">
+        <source>Multiple languages</source>
+        <note>ISO 639-2/T mul</note>
+      </trans-unit>
+      <trans-unit id="Munda languages">
+        <source>Munda languages</source>
+        <note>ISO 639-2/T mun</note>
+      </trans-unit>
+      <trans-unit id="Nahuatl languages">
+        <source>Nahuatl languages</source>
+        <note>ISO 639-2/T nah</note>
+      </trans-unit>
+      <trans-unit id="Nauru">
+        <source>Nauru</source>
+        <note>ISO 639-2/T nau</note>
+      </trans-unit>
+      <trans-unit id="Navajo">
+        <source>Navajo</source>
+        <note>ISO 639-2/T nav</note>
+      </trans-unit>
+      <trans-unit id="Ndonga">
+        <source>Ndonga</source>
+        <note>ISO 639-2/T ndo</note>
+      </trans-unit>
+      <trans-unit id="Nepali">
+        <source>Nepali</source>
+        <note>ISO 639-2/T nep</note>
+      </trans-unit>
+      <trans-unit id="Newari">
+        <source>Newari</source>
+        <note>ISO 639-2/T new</note>
+      </trans-unit>
+      <trans-unit id="Nias">
+        <source>Nias</source>
+        <note>ISO 639-2/T nia</note>
+      </trans-unit>
+      <trans-unit id="Niger-Kordofanian languages">
+        <source>Niger-Kordofanian languages</source>
+        <note>ISO 639-2/T nic</note>
+      </trans-unit>
+      <trans-unit id="Nilo-Saharan languages">
+        <source>Nilo-Saharan languages</source>
+        <note>ISO 639-2/T ssa</note>
+      </trans-unit>
+      <trans-unit id="Niuean">
+        <source>Niuean</source>
+        <note>ISO 639-2/T niu</note>
+      </trans-unit>
+      <trans-unit id="North American Indian languages">
+        <source>North American Indian languages</source>
+        <note>ISO 639-2/T nai</note>
+      </trans-unit>
+      <trans-unit id="North Ndebele">
+        <source>North Ndebele</source>
+        <note>ISO 639-2/T nde</note>
+      </trans-unit>
+      <trans-unit id="Northern Sotho">
+        <source>Northern Sotho</source>
+        <note>ISO 639-2/T nso</note>
+      </trans-unit>
+      <trans-unit id="Norwegian">
+        <source>Norwegian</source>
+        <note>ISO 639-2/T nor</note>
+      </trans-unit>
+      <trans-unit id="Nubian languages">
+        <source>Nubian languages</source>
+        <note>ISO 639-2/T nub</note>
+      </trans-unit>
+      <trans-unit id="Nyamwezi">
+        <source>Nyamwezi</source>
+        <note>ISO 639-2/T nym</note>
+      </trans-unit>
+      <trans-unit id="Nyanja">
+        <source>Nyanja</source>
+        <note>ISO 639-2/T nya</note>
+      </trans-unit>
+      <trans-unit id="Nyankole">
+        <source>Nyankole</source>
+        <note>ISO 639-2/T nyn</note>
+      </trans-unit>
+      <trans-unit id="Nyasa Tonga">
+        <source>Nyasa Tonga</source>
+        <note>ISO 639-2/T tog</note>
+      </trans-unit>
+      <trans-unit id="Nyoro">
+        <source>Nyoro</source>
+        <note>ISO 639-2/T nyo</note>
+      </trans-unit>
+      <trans-unit id="Nzima">
+        <source>Nzima</source>
+        <note>ISO 639-2/T nzi</note>
+      </trans-unit>
+      <trans-unit id="Occitan">
+        <source>Occitan</source>
+        <note>ISO 639-2/T oci</note>
+      </trans-unit>
+      <trans-unit id="Ojibwa">
+        <source>Ojibwa</source>
+        <note>ISO 639-2/T oji</note>
+      </trans-unit>
+      <trans-unit id="Old English">
+        <source>Old English</source>
+        <note>ISO 639-2/T ang</note>
+      </trans-unit>
+      <trans-unit id="Old French">
+        <source>Old French</source>
+        <note>ISO 639-2/T fro</note>
+      </trans-unit>
+      <trans-unit id="Old High German">
+        <source>Old High German</source>
+        <note>ISO 639-2/T goh</note>
+      </trans-unit>
+      <trans-unit id="Old Irish">
+        <source>Old Irish</source>
+        <note>ISO 639-2/T sga</note>
+      </trans-unit>
+      <trans-unit id="Old Norse">
+        <source>Old Norse</source>
+        <note>ISO 639-2/T non</note>
+      </trans-unit>
+      <trans-unit id="Old Persian">
+        <source>Old Persian</source>
+        <note>ISO 639-2/T peo</note>
+      </trans-unit>
+      <trans-unit id="Old Provençal">
+        <source>Old Provençal</source>
+        <note>ISO 639-2/T pro</note>
+      </trans-unit>
+      <trans-unit id="Oriya">
+        <source>Oriya</source>
+        <note>ISO 639-2/T ori</note>
+      </trans-unit>
+      <trans-unit id="Oromo">
+        <source>Oromo</source>
+        <note>ISO 639-2/T orm</note>
+      </trans-unit>
+      <trans-unit id="Osage">
+        <source>Osage</source>
+        <note>ISO 639-2/T osa</note>
+      </trans-unit>
+      <trans-unit id="Ossetic">
+        <source>Ossetic</source>
+        <note>ISO 639-2/T oss</note>
+      </trans-unit>
+      <trans-unit id="Otomian languages">
+        <source>Otomian languages</source>
+        <note>ISO 639-2/T oto</note>
+      </trans-unit>
+      <trans-unit id="Ottoman Turkish">
+        <source>Ottoman Turkish</source>
+        <note>ISO 639-2/T ota</note>
+      </trans-unit>
+      <trans-unit id="Pahlavi">
+        <source>Pahlavi</source>
+        <note>ISO 639-2/T pal</note>
+      </trans-unit>
+      <trans-unit id="Palauan">
+        <source>Palauan</source>
+        <note>ISO 639-2/T pau</note>
+      </trans-unit>
+      <trans-unit id="Pali">
+        <source>Pali</source>
+        <note>ISO 639-2/T pli</note>
+      </trans-unit>
+      <trans-unit id="Pampanga">
+        <source>Pampanga</source>
+        <note>ISO 639-2/T pam</note>
+      </trans-unit>
+      <trans-unit id="Pangasinan">
+        <source>Pangasinan</source>
+        <note>ISO 639-2/T pag</note>
+      </trans-unit>
+      <trans-unit id="Papiamento">
+        <source>Papiamento</source>
+        <note>ISO 639-2/T pap</note>
+      </trans-unit>
+      <trans-unit id="Papuan languages">
+        <source>Papuan languages</source>
+        <note>ISO 639-2/T paa</note>
+      </trans-unit>
+      <trans-unit id="Pashto">
+        <source>Pashto</source>
+        <note>ISO 639-2/T pus</note>
+      </trans-unit>
+      <trans-unit id="Persian">
+        <source>Persian</source>
+        <note>ISO 639-2/T fas</note>
+      </trans-unit>
+      <trans-unit id="Philippine languages">
+        <source>Philippine languages</source>
+        <note>ISO 639-2/T phi</note>
+      </trans-unit>
+      <trans-unit id="Phoenician">
+        <source>Phoenician</source>
+        <note>ISO 639-2/T phn</note>
+      </trans-unit>
+      <trans-unit id="Pohnpeian">
+        <source>Pohnpeian</source>
+        <note>ISO 639-2/T pon</note>
+      </trans-unit>
+      <trans-unit id="Polish">
+        <source>Polish</source>
+        <note>ISO 639-2/T pol</note>
+      </trans-unit>
+      <trans-unit id="Portuguese">
+        <source>Portuguese</source>
+        <note>ISO 639-2/T por</note>
+      </trans-unit>
+      <trans-unit id="Portuguese-Based Creoles and pidgins">
+        <source>Portuguese-Based Creoles and pidgins</source>
+        <note>ISO 639-2/T cpp</note>
+      </trans-unit>
+      <trans-unit id="Prakrit languages">
+        <source>Prakrit languages</source>
+        <note>ISO 639-2/T pra</note>
+      </trans-unit>
+      <trans-unit id="Punjabi">
+        <source>Punjabi</source>
+        <note>ISO 639-2/T pan</note>
+      </trans-unit>
+      <trans-unit id="Quechua">
+        <source>Quechua</source>
+        <note>ISO 639-2/T que</note>
+      </trans-unit>
+      <trans-unit id="Rajasthani">
+        <source>Rajasthani</source>
+        <note>ISO 639-2/T raj</note>
+      </trans-unit>
+      <trans-unit id="Rapanui">
+        <source>Rapanui</source>
+        <note>ISO 639-2/T rap</note>
+      </trans-unit>
+      <trans-unit id="Rarotongan">
+        <source>Rarotongan</source>
+        <note>ISO 639-2/T rar</note>
+      </trans-unit>
+      <trans-unit id="Romance languages">
+        <source>Romance languages</source>
+        <note>ISO 639-2/T roa</note>
+      </trans-unit>
+      <trans-unit id="Romanian">
+        <source>Romanian</source>
+        <note>ISO 639-2/T ron</note>
+      </trans-unit>
+      <trans-unit id="Romansh">
+        <source>Romansh</source>
+        <note>ISO 639-2/T roh</note>
+      </trans-unit>
+      <trans-unit id="Romany">
+        <source>Romany</source>
+        <note>ISO 639-2/T rom</note>
+      </trans-unit>
+      <trans-unit id="Rundi">
+        <source>Rundi</source>
+        <note>ISO 639-2/T run</note>
+      </trans-unit>
+      <trans-unit id="Russian">
+        <source>Russian</source>
+        <note>ISO 639-2/T rus</note>
+      </trans-unit>
+      <trans-unit id="Sakha">
+        <source>Sakha</source>
+        <note>ISO 639-2/T sah</note>
+      </trans-unit>
+      <trans-unit id="Salishan languages">
+        <source>Salishan languages</source>
+        <note>ISO 639-2/T sal</note>
+      </trans-unit>
+      <trans-unit id="Samaritan Aramaic">
+        <source>Samaritan Aramaic</source>
+        <note>ISO 639-2/T sam</note>
+      </trans-unit>
+      <trans-unit id="Sami languages">
+        <source>Sami languages</source>
+        <note>ISO 639-2/T smi</note>
+      </trans-unit>
+      <trans-unit id="Samoan">
+        <source>Samoan</source>
+        <note>ISO 639-2/T smo</note>
+      </trans-unit>
+      <trans-unit id="Sandawe">
+        <source>Sandawe</source>
+        <note>ISO 639-2/T sad</note>
+      </trans-unit>
+      <trans-unit id="Sango">
+        <source>Sango</source>
+        <note>ISO 639-2/T sag</note>
+      </trans-unit>
+      <trans-unit id="Sanskrit">
+        <source>Sanskrit</source>
+        <note>ISO 639-2/T san</note>
+      </trans-unit>
+      <trans-unit id="Santali">
+        <source>Santali</source>
+        <note>ISO 639-2/T sat</note>
+      </trans-unit>
+      <trans-unit id="Sardinian">
+        <source>Sardinian</source>
+        <note>ISO 639-2/T srd</note>
+      </trans-unit>
+      <trans-unit id="Sasak">
+        <source>Sasak</source>
+        <note>ISO 639-2/T sas</note>
+      </trans-unit>
+      <trans-unit id="Scots">
+        <source>Scots</source>
+        <note>ISO 639-2/T sco</note>
+      </trans-unit>
+      <trans-unit id="Scottish Gaelic">
+        <source>Scottish Gaelic</source>
+        <note>ISO 639-2/T gla</note>
+      </trans-unit>
+      <trans-unit id="Selkup">
+        <source>Selkup</source>
+        <note>ISO 639-2/T sel</note>
+      </trans-unit>
+      <trans-unit id="Semitic languages">
+        <source>Semitic languages</source>
+        <note>ISO 639-2/T sem</note>
+      </trans-unit>
+      <trans-unit id="Serbian">
+        <source>Serbian</source>
+        <note>ISO 639-2/T srp</note>
+      </trans-unit>
+      <trans-unit id="Serer">
+        <source>Serer</source>
+        <note>ISO 639-2/T srr</note>
+      </trans-unit>
+      <trans-unit id="Shan">
+        <source>Shan</source>
+        <note>ISO 639-2/T shn</note>
+      </trans-unit>
+      <trans-unit id="Shona">
+        <source>Shona</source>
+        <note>ISO 639-2/T sna</note>
+      </trans-unit>
+      <trans-unit id="Sidamo">
+        <source>Sidamo</source>
+        <note>ISO 639-2/T sid</note>
+      </trans-unit>
+      <trans-unit id="Siksika">
+        <source>Siksika</source>
+        <note>ISO 639-2/T bla</note>
+      </trans-unit>
+      <trans-unit id="Sindhi">
+        <source>Sindhi</source>
+        <note>ISO 639-2/T snd</note>
+      </trans-unit>
+      <trans-unit id="Sinhala">
+        <source>Sinhala</source>
+        <note>ISO 639-2/T sin</note>
+      </trans-unit>
+      <trans-unit id="Sino-Tibetan languages">
+        <source>Sino-Tibetan languages</source>
+        <note>ISO 639-2/T sit</note>
+      </trans-unit>
+      <trans-unit id="Siouan languages">
+        <source>Siouan languages</source>
+        <note>ISO 639-2/T sio</note>
+      </trans-unit>
+      <trans-unit id="Slave">
+        <source>Slave</source>
+        <note>ISO 639-2/T den</note>
+      </trans-unit>
+      <trans-unit id="Slavic languages">
+        <source>Slavic languages</source>
+        <note>ISO 639-2/T sla</note>
+      </trans-unit>
+      <trans-unit id="Slovak">
+        <source>Slovak</source>
+        <note>ISO 639-2/T slk</note>
+      </trans-unit>
+      <trans-unit id="Slovenian">
+        <source>Slovenian</source>
+        <note>ISO 639-2/T slv</note>
+      </trans-unit>
+      <trans-unit id="Sogdien">
+        <source>Sogdien</source>
+        <note>ISO 639-2/T sog</note>
+      </trans-unit>
+      <trans-unit id="Somali">
+        <source>Somali</source>
+        <note>ISO 639-2/T som</note>
+      </trans-unit>
+      <trans-unit id="Songhai languages">
+        <source>Songhai languages</source>
+        <note>ISO 639-2/T son</note>
+      </trans-unit>
+      <trans-unit id="Soninke">
+        <source>Soninke</source>
+        <note>ISO 639-2/T snk</note>
+      </trans-unit>
+      <trans-unit id="Sorbian languages">
+        <source>Sorbian languages</source>
+        <note>ISO 639-2/T wen</note>
+      </trans-unit>
+      <trans-unit id="South American Indian languages">
+        <source>South American Indian languages</source>
+        <note>ISO 639-2/T sai</note>
+      </trans-unit>
+      <trans-unit id="South Ndebele">
+        <source>South Ndebele</source>
+        <note>ISO 639-2/T nbl</note>
+      </trans-unit>
+      <trans-unit id="Southern Sotho">
+        <source>Southern Sotho</source>
+        <note>ISO 639-2/T sot</note>
+      </trans-unit>
+      <trans-unit id="Spanish">
+        <source>Spanish</source>
+        <note>ISO 639-2/T spa</note>
+      </trans-unit>
+      <trans-unit id="Sukuma">
+        <source>Sukuma</source>
+        <note>ISO 639-2/T suk</note>
+      </trans-unit>
+      <trans-unit id="Sumerian">
+        <source>Sumerian</source>
+        <note>ISO 639-2/T sux</note>
+      </trans-unit>
+      <trans-unit id="Sundanese">
+        <source>Sundanese</source>
+        <note>ISO 639-2/T sun</note>
+      </trans-unit>
+      <trans-unit id="Susu">
+        <source>Susu</source>
+        <note>ISO 639-2/T sus</note>
+      </trans-unit>
+      <trans-unit id="Swahili">
+        <source>Swahili</source>
+        <note>ISO 639-2/T swa</note>
+      </trans-unit>
+      <trans-unit id="Swati">
+        <source>Swati</source>
+        <note>ISO 639-2/T ssw</note>
+      </trans-unit>
+      <trans-unit id="Swedish">
+        <source>Swedish</source>
+        <note>ISO 639-2/T swe</note>
+      </trans-unit>
+      <trans-unit id="Syriac">
+        <source>Syriac</source>
+        <note>ISO 639-2/T syr</note>
+      </trans-unit>
+      <trans-unit id="Tagalog">
+        <source>Tagalog</source>
+        <note>ISO 639-2/T tgl</note>
+      </trans-unit>
+      <trans-unit id="Tahitian">
+        <source>Tahitian</source>
+        <note>ISO 639-2/T tah</note>
+      </trans-unit>
+      <trans-unit id="Tai languages">
+        <source>Tai languages</source>
+        <note>ISO 639-2/T tai</note>
+      </trans-unit>
+      <trans-unit id="Tajik">
+        <source>Tajik</source>
+        <note>ISO 639-2/T tgk</note>
+      </trans-unit>
+      <trans-unit id="Tamashek">
+        <source>Tamashek</source>
+        <note>ISO 639-2/T tmh</note>
+      </trans-unit>
+      <trans-unit id="Tamil">
+        <source>Tamil</source>
+        <note>ISO 639-2/T tam</note>
+      </trans-unit>
+      <trans-unit id="Tatar">
+        <source>Tatar</source>
+        <note>ISO 639-2/T tat</note>
+      </trans-unit>
+      <trans-unit id="Telugu">
+        <source>Telugu</source>
+        <note>ISO 639-2/T tel</note>
+      </trans-unit>
+      <trans-unit id="Tereno">
+        <source>Tereno</source>
+        <note>ISO 639-2/T ter</note>
+      </trans-unit>
+      <trans-unit id="Tetum">
+        <source>Tetum</source>
+        <note>ISO 639-2/T tet</note>
+      </trans-unit>
+      <trans-unit id="Thai">
+        <source>Thai</source>
+        <note>ISO 639-2/T tha</note>
+      </trans-unit>
+      <trans-unit id="Tibetan">
+        <source>Tibetan</source>
+        <note>ISO 639-2/T bod</note>
+      </trans-unit>
+      <trans-unit id="Tigre">
+        <source>Tigre</source>
+        <note>ISO 639-2/T tig</note>
+      </trans-unit>
+      <trans-unit id="Tigrinya">
+        <source>Tigrinya</source>
+        <note>ISO 639-2/T tir</note>
+      </trans-unit>
+      <trans-unit id="Timne">
+        <source>Timne</source>
+        <note>ISO 639-2/T tem</note>
+      </trans-unit>
+      <trans-unit id="Tiv">
+        <source>Tiv</source>
+        <note>ISO 639-2/T tiv</note>
+      </trans-unit>
+      <trans-unit id="Tlingit">
+        <source>Tlingit</source>
+        <note>ISO 639-2/T tli</note>
+      </trans-unit>
+      <trans-unit id="Tok Pisin">
+        <source>Tok Pisin</source>
+        <note>ISO 639-2/T tpi</note>
+      </trans-unit>
+      <trans-unit id="Tokelau">
+        <source>Tokelau</source>
+        <note>ISO 639-2/T tkl</note>
+      </trans-unit>
+      <trans-unit id="Tongan">
+        <source>Tongan</source>
+        <note>ISO 639-2/T ton</note>
+      </trans-unit>
+      <trans-unit id="Tsimshian">
+        <source>Tsimshian</source>
+        <note>ISO 639-2/T tsi</note>
+      </trans-unit>
+      <trans-unit id="Tsonga">
+        <source>Tsonga</source>
+        <note>ISO 639-2/T tso</note>
+      </trans-unit>
+      <trans-unit id="Tswana">
+        <source>Tswana</source>
+        <note>ISO 639-2/T tsn</note>
+      </trans-unit>
+      <trans-unit id="Tumbuka">
+        <source>Tumbuka</source>
+        <note>ISO 639-2/T tum</note>
+      </trans-unit>
+      <trans-unit id="Turkish">
+        <source>Turkish</source>
+        <note>ISO 639-2/T tur</note>
+      </trans-unit>
+      <trans-unit id="Turkmen">
+        <source>Turkmen</source>
+        <note>ISO 639-2/T tuk</note>
+      </trans-unit>
+      <trans-unit id="Tuvalu">
+        <source>Tuvalu</source>
+        <note>ISO 639-2/T tvl</note>
+      </trans-unit>
+      <trans-unit id="Tuvinian">
+        <source>Tuvinian</source>
+        <note>ISO 639-2/T tyv</note>
+      </trans-unit>
+      <trans-unit id="Twi">
+        <source>Twi</source>
+        <note>ISO 639-2/T twi</note>
+      </trans-unit>
+      <trans-unit id="Ugaritic">
+        <source>Ugaritic</source>
+        <note>ISO 639-2/T uga</note>
+      </trans-unit>
+      <trans-unit id="Ukrainian">
+        <source>Ukrainian</source>
+        <note>ISO 639-2/T ukr</note>
+      </trans-unit>
+      <trans-unit id="Umbundu">
+        <source>Umbundu</source>
+        <note>ISO 639-2/T umb</note>
+      </trans-unit>
+      <trans-unit id="Uncoded languages">
+        <source>Uncoded languages</source>
+        <note>ISO 639-2/T mis</note>
+      </trans-unit>
+      <trans-unit id="Undetermined">
+        <source>Undetermined</source>
+        <note>ISO 639-2/T und</note>
+      </trans-unit>
+      <trans-unit id="Urdu">
+        <source>Urdu</source>
+        <note>ISO 639-2/T urd</note>
+      </trans-unit>
+      <trans-unit id="Uyghur">
+        <source>Uyghur</source>
+        <note>ISO 639-2/T uig</note>
+      </trans-unit>
+      <trans-unit id="Uzbek">
+        <source>Uzbek</source>
+        <note>ISO 639-2/T uzb</note>
+      </trans-unit>
+      <trans-unit id="Vai">
+        <source>Vai</source>
+        <note>ISO 639-2/T vai</note>
+      </trans-unit>
+      <trans-unit id="Venda">
+        <source>Venda</source>
+        <note>ISO 639-2/T ven</note>
+      </trans-unit>
+      <trans-unit id="Vietnamese">
+        <source>Vietnamese</source>
+        <note>ISO 639-2/T vie</note>
+      </trans-unit>
+      <trans-unit id="Volapük">
+        <source>Volapük</source>
+        <note>ISO 639-2/T vol</note>
+      </trans-unit>
+      <trans-unit id="Votic">
+        <source>Votic</source>
+        <note>ISO 639-2/T vot</note>
+      </trans-unit>
+      <trans-unit id="Wakashan languages">
+        <source>Wakashan languages</source>
+        <note>ISO 639-2/T wak</note>
+      </trans-unit>
+      <trans-unit id="Waray">
+        <source>Waray</source>
+        <note>ISO 639-2/T war</note>
+      </trans-unit>
+      <trans-unit id="Washo">
+        <source>Washo</source>
+        <note>ISO 639-2/T was</note>
+      </trans-unit>
+      <trans-unit id="Welsh">
+        <source>Welsh</source>
+        <note>ISO 639-2/T cym</note>
+      </trans-unit>
+      <trans-unit id="Western Frisian">
+        <source>Western Frisian</source>
+        <note>ISO 639-2/T fry</note>
+      </trans-unit>
+      <trans-unit id="Wolaytta">
+        <source>Wolaytta</source>
+        <note>ISO 639-2/T wal</note>
+      </trans-unit>
+      <trans-unit id="Wolof">
+        <source>Wolof</source>
+        <note>ISO 639-2/T wol</note>
+      </trans-unit>
+      <trans-unit id="Xhosa">
+        <source>Xhosa</source>
+        <note>ISO 639-2/T xho</note>
+      </trans-unit>
+      <trans-unit id="Yao">
+        <source>Yao</source>
+        <note>ISO 639-2/T yao</note>
+      </trans-unit>
+      <trans-unit id="Yapese">
+        <source>Yapese</source>
+        <note>ISO 639-2/T yap</note>
+      </trans-unit>
+      <trans-unit id="Yiddish">
+        <source>Yiddish</source>
+        <note>ISO 639-2/T yid</note>
+      </trans-unit>
+      <trans-unit id="Yoruba">
+        <source>Yoruba</source>
+        <note>ISO 639-2/T yor</note>
+      </trans-unit>
+      <trans-unit id="Yupik languages">
+        <source>Yupik languages</source>
+        <note>ISO 639-2/T ypk</note>
+      </trans-unit>
+      <trans-unit id="Zande languages">
+        <source>Zande languages</source>
+        <note>ISO 639-2/T znd</note>
+      </trans-unit>
+      <trans-unit id="Zapotec">
+        <source>Zapotec</source>
+        <note>ISO 639-2/T zap</note>
+      </trans-unit>
+      <trans-unit id="Zenaga">
+        <source>Zenaga</source>
+        <note>ISO 639-2/T zen</note>
+      </trans-unit>
+      <trans-unit id="Zhuang">
+        <source>Zhuang</source>
+        <note>ISO 639-2/T zha</note>
+      </trans-unit>
+      <trans-unit id="Zulu">
+        <source>Zulu</source>
+        <note>ISO 639-2/T zul</note>
+      </trans-unit>
+      <trans-unit id="Zuni">
+        <source>Zuni</source>
+        <note>ISO 639-2/T zun</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/ISO3166.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="Afghanistan">
+        <source>Afghanistan</source>
+        <note>ISO 3166-1 AF</note>
+      </trans-unit>
+      <trans-unit id="Albania">
+        <source>Albania</source>
+        <note>ISO 3166-1 AL</note>
+      </trans-unit>
+      <trans-unit id="Algeria">
+        <source>Algeria</source>
+        <note>ISO 3166-1 DZ</note>
+      </trans-unit>
+      <trans-unit id="American Samoa">
+        <source>American Samoa</source>
+        <note>ISO 3166-1 AS</note>
+      </trans-unit>
+      <trans-unit id="Andorra">
+        <source>Andorra</source>
+        <note>ISO 3166-1 AD</note>
+      </trans-unit>
+      <trans-unit id="Angola">
+        <source>Angola</source>
+        <note>ISO 3166-1 AO</note>
+      </trans-unit>
+      <trans-unit id="Anguilla">
+        <source>Anguilla</source>
+        <note>ISO 3166-1 AI</note>
+      </trans-unit>
+      <trans-unit id="Antarctica">
+        <source>Antarctica</source>
+        <note>ISO 3166-1 AQ</note>
+      </trans-unit>
+      <trans-unit id="Antigua &amp; Barbuda">
+        <source>Antigua &amp; Barbuda</source>
+        <note>ISO 3166-1 AG</note>
+      </trans-unit>
+      <trans-unit id="Argentina">
+        <source>Argentina</source>
+        <note>ISO 3166-1 AR</note>
+      </trans-unit>
+      <trans-unit id="Armenia">
+        <source>Armenia</source>
+        <note>ISO 3166-1 AM</note>
+      </trans-unit>
+      <trans-unit id="Aruba">
+        <source>Aruba</source>
+        <note>ISO 3166-1 AW</note>
+      </trans-unit>
+      <trans-unit id="Australia">
+        <source>Australia</source>
+        <note>ISO 3166-1 AU</note>
+      </trans-unit>
+      <trans-unit id="Austria">
+        <source>Austria</source>
+        <note>ISO 3166-1 AT</note>
+      </trans-unit>
+      <trans-unit id="Azerbaijan">
+        <source>Azerbaijan</source>
+        <note>ISO 3166-1 AZ</note>
+      </trans-unit>
+      <trans-unit id="Åland Islands">
+        <source>Åland Islands</source>
+        <note>ISO 3166-1 AX</note>
+      </trans-unit>
+      <trans-unit id="Bahamas">
+        <source>Bahamas</source>
+        <note>ISO 3166-1 BS</note>
+      </trans-unit>
+      <trans-unit id="Bahrain">
+        <source>Bahrain</source>
+        <note>ISO 3166-1 BH</note>
+      </trans-unit>
+      <trans-unit id="Bangladesh">
+        <source>Bangladesh</source>
+        <note>ISO 3166-1 BD</note>
+      </trans-unit>
+      <trans-unit id="Barbados">
+        <source>Barbados</source>
+        <note>ISO 3166-1 BB</note>
+      </trans-unit>
+      <trans-unit id="Belarus">
+        <source>Belarus</source>
+        <note>ISO 3166-1 BY</note>
+      </trans-unit>
+      <trans-unit id="Belgium">
+        <source>Belgium</source>
+        <note>ISO 3166-1 BE</note>
+      </trans-unit>
+      <trans-unit id="Belize">
+        <source>Belize</source>
+        <note>ISO 3166-1 BZ</note>
+      </trans-unit>
+      <trans-unit id="Benin">
+        <source>Benin</source>
+        <note>ISO 3166-1 BJ</note>
+      </trans-unit>
+      <trans-unit id="Bermuda">
+        <source>Bermuda</source>
+        <note>ISO 3166-1 BM</note>
+      </trans-unit>
+      <trans-unit id="Bhutan">
+        <source>Bhutan</source>
+        <note>ISO 3166-1 BT</note>
+      </trans-unit>
+      <trans-unit id="Bolivia">
+        <source>Bolivia</source>
+        <note>ISO 3166-1 BO</note>
+      </trans-unit>
+      <trans-unit id="Bosnia &amp; Herzegovina">
+        <source>Bosnia &amp; Herzegovina</source>
+        <note>ISO 3166-1 BA</note>
+      </trans-unit>
+      <trans-unit id="Botswana">
+        <source>Botswana</source>
+        <note>ISO 3166-1 BW</note>
+      </trans-unit>
+      <trans-unit id="Bouvet Island">
+        <source>Bouvet Island</source>
+        <note>ISO 3166-1 BV</note>
+      </trans-unit>
+      <trans-unit id="Brazil">
+        <source>Brazil</source>
+        <note>ISO 3166-1 BR</note>
+      </trans-unit>
+      <trans-unit id="British Indian Ocean Territory">
+        <source>British Indian Ocean Territory</source>
+        <note>ISO 3166-1 IO</note>
+      </trans-unit>
+      <trans-unit id="British Virgin Islands">
+        <source>British Virgin Islands</source>
+        <note>ISO 3166-1 VG</note>
+      </trans-unit>
+      <trans-unit id="Brunei">
+        <source>Brunei</source>
+        <note>ISO 3166-1 BN</note>
+      </trans-unit>
+      <trans-unit id="Bulgaria">
+        <source>Bulgaria</source>
+        <note>ISO 3166-1 BG</note>
+      </trans-unit>
+      <trans-unit id="Burkina Faso">
+        <source>Burkina Faso</source>
+        <note>ISO 3166-1 BF</note>
+      </trans-unit>
+      <trans-unit id="Burundi">
+        <source>Burundi</source>
+        <note>ISO 3166-1 BI</note>
+      </trans-unit>
+      <trans-unit id="Cambodia">
+        <source>Cambodia</source>
+        <note>ISO 3166-1 KH</note>
+      </trans-unit>
+      <trans-unit id="Cameroon">
+        <source>Cameroon</source>
+        <note>ISO 3166-1 CM</note>
+      </trans-unit>
+      <trans-unit id="Canada">
+        <source>Canada</source>
+        <note>ISO 3166-1 CA</note>
+      </trans-unit>
+      <trans-unit id="Cape Verde">
+        <source>Cape Verde</source>
+        <note>ISO 3166-1 CV</note>
+      </trans-unit>
+      <trans-unit id="Caribbean Netherlands">
+        <source>Caribbean Netherlands</source>
+        <note>ISO 3166-1 BQ</note>
+      </trans-unit>
+      <trans-unit id="Cayman Islands">
+        <source>Cayman Islands</source>
+        <note>ISO 3166-1 KY</note>
+      </trans-unit>
+      <trans-unit id="Central African Republic">
+        <source>Central African Republic</source>
+        <note>ISO 3166-1 CF</note>
+      </trans-unit>
+      <trans-unit id="Chad">
+        <source>Chad</source>
+        <note>ISO 3166-1 TD</note>
+      </trans-unit>
+      <trans-unit id="Chile">
+        <source>Chile</source>
+        <note>ISO 3166-1 CL</note>
+      </trans-unit>
+      <trans-unit id="China">
+        <source>China</source>
+        <note>ISO 3166-1 CN</note>
+      </trans-unit>
+      <trans-unit id="Christmas Island">
+        <source>Christmas Island</source>
+        <note>ISO 3166-1 CX</note>
+      </trans-unit>
+      <trans-unit id="Cocos (Keeling) Islands">
+        <source>Cocos (Keeling) Islands</source>
+        <note>ISO 3166-1 CC</note>
+      </trans-unit>
+      <trans-unit id="Colombia">
+        <source>Colombia</source>
+        <note>ISO 3166-1 CO</note>
+      </trans-unit>
+      <trans-unit id="Comoros">
+        <source>Comoros</source>
+        <note>ISO 3166-1 KM</note>
+      </trans-unit>
+      <trans-unit id="Congo - Brazzaville">
+        <source>Congo - Brazzaville</source>
+        <note>ISO 3166-1 CG</note>
+      </trans-unit>
+      <trans-unit id="Congo - Kinshasa">
+        <source>Congo - Kinshasa</source>
+        <note>ISO 3166-1 CD</note>
+      </trans-unit>
+      <trans-unit id="Cook Islands">
+        <source>Cook Islands</source>
+        <note>ISO 3166-1 CK</note>
+      </trans-unit>
+      <trans-unit id="Costa Rica">
+        <source>Costa Rica</source>
+        <note>ISO 3166-1 CR</note>
+      </trans-unit>
+      <trans-unit id="Côte d’Ivoire">
+        <source>Côte d’Ivoire</source>
+        <note>ISO 3166-1 CI</note>
+      </trans-unit>
+      <trans-unit id="Croatia">
+        <source>Croatia</source>
+        <note>ISO 3166-1 HR</note>
+      </trans-unit>
+      <trans-unit id="Cuba">
+        <source>Cuba</source>
+        <note>ISO 3166-1 CU</note>
+      </trans-unit>
+      <trans-unit id="Curaçao">
+        <source>Curaçao</source>
+        <note>ISO 3166-1 CW</note>
+      </trans-unit>
+      <trans-unit id="Cyprus">
+        <source>Cyprus</source>
+        <note>ISO 3166-1 CY</note>
+      </trans-unit>
+      <trans-unit id="Czech Republic">
+        <source>Czech Republic</source>
+        <note>ISO 3166-1 CZ</note>
+      </trans-unit>
+      <trans-unit id="Denmark">
+        <source>Denmark</source>
+        <note>ISO 3166-1 DK</note>
+      </trans-unit>
+      <trans-unit id="Djibouti">
+        <source>Djibouti</source>
+        <note>ISO 3166-1 DJ</note>
+      </trans-unit>
+      <trans-unit id="Dominica">
+        <source>Dominica</source>
+        <note>ISO 3166-1 DM</note>
+      </trans-unit>
+      <trans-unit id="Dominican Republic">
+        <source>Dominican Republic</source>
+        <note>ISO 3166-1 DO</note>
+      </trans-unit>
+      <trans-unit id="Ecuador">
+        <source>Ecuador</source>
+        <note>ISO 3166-1 EC</note>
+      </trans-unit>
+      <trans-unit id="Egypt">
+        <source>Egypt</source>
+        <note>ISO 3166-1 EG</note>
+      </trans-unit>
+      <trans-unit id="El Salvador">
+        <source>El Salvador</source>
+        <note>ISO 3166-1 SV</note>
+      </trans-unit>
+      <trans-unit id="Equatorial Guinea">
+        <source>Equatorial Guinea</source>
+        <note>ISO 3166-1 GQ</note>
+      </trans-unit>
+      <trans-unit id="Eritrea">
+        <source>Eritrea</source>
+        <note>ISO 3166-1 ER</note>
+      </trans-unit>
+      <trans-unit id="Estonia">
+        <source>Estonia</source>
+        <note>ISO 3166-1 EE</note>
+      </trans-unit>
+      <trans-unit id="Ethiopia">
+        <source>Ethiopia</source>
+        <note>ISO 3166-1 ET</note>
+      </trans-unit>
+      <trans-unit id="Falkland Islands">
+        <source>Falkland Islands</source>
+        <note>ISO 3166-1 FK</note>
+      </trans-unit>
+      <trans-unit id="Faroe Islands">
+        <source>Faroe Islands</source>
+        <note>ISO 3166-1 FO</note>
+      </trans-unit>
+      <trans-unit id="Fiji">
+        <source>Fiji</source>
+        <note>ISO 3166-1 FJ</note>
+      </trans-unit>
+      <trans-unit id="Finland">
+        <source>Finland</source>
+        <note>ISO 3166-1 FI</note>
+      </trans-unit>
+      <trans-unit id="France">
+        <source>France</source>
+        <note>ISO 3166-1 FR</note>
+      </trans-unit>
+      <trans-unit id="French Guiana">
+        <source>French Guiana</source>
+        <note>ISO 3166-1 GF</note>
+      </trans-unit>
+      <trans-unit id="French Polynesia">
+        <source>French Polynesia</source>
+        <note>ISO 3166-1 PF</note>
+      </trans-unit>
+      <trans-unit id="French Southern Territories">
+        <source>French Southern Territories</source>
+        <note>ISO 3166-1 TF</note>
+      </trans-unit>
+      <trans-unit id="Gabon">
+        <source>Gabon</source>
+        <note>ISO 3166-1 GA</note>
+      </trans-unit>
+      <trans-unit id="Gambia">
+        <source>Gambia</source>
+        <note>ISO 3166-1 GM</note>
+      </trans-unit>
+      <trans-unit id="Georgia">
+        <source>Georgia</source>
+        <note>ISO 3166-1 GE</note>
+      </trans-unit>
+      <trans-unit id="Germany">
+        <source>Germany</source>
+        <note>ISO 3166-1 DE</note>
+      </trans-unit>
+      <trans-unit id="Ghana">
+        <source>Ghana</source>
+        <note>ISO 3166-1 GH</note>
+      </trans-unit>
+      <trans-unit id="Gibraltar">
+        <source>Gibraltar</source>
+        <note>ISO 3166-1 GI</note>
+      </trans-unit>
+      <trans-unit id="Greece">
+        <source>Greece</source>
+        <note>ISO 3166-1 GR</note>
+      </trans-unit>
+      <trans-unit id="Greenland">
+        <source>Greenland</source>
+        <note>ISO 3166-1 GL</note>
+      </trans-unit>
+      <trans-unit id="Grenada">
+        <source>Grenada</source>
+        <note>ISO 3166-1 GD</note>
+      </trans-unit>
+      <trans-unit id="Guadeloupe">
+        <source>Guadeloupe</source>
+        <note>ISO 3166-1 GP</note>
+      </trans-unit>
+      <trans-unit id="Guam">
+        <source>Guam</source>
+        <note>ISO 3166-1 GU</note>
+      </trans-unit>
+      <trans-unit id="Guatemala">
+        <source>Guatemala</source>
+        <note>ISO 3166-1 GT</note>
+      </trans-unit>
+      <trans-unit id="Guernsey">
+        <source>Guernsey</source>
+        <note>ISO 3166-1 GG</note>
+      </trans-unit>
+      <trans-unit id="Guinea">
+        <source>Guinea</source>
+        <note>ISO 3166-1 GN</note>
+      </trans-unit>
+      <trans-unit id="Guinea-Bissau">
+        <source>Guinea-Bissau</source>
+        <note>ISO 3166-1 GW</note>
+      </trans-unit>
+      <trans-unit id="Guyana">
+        <source>Guyana</source>
+        <note>ISO 3166-1 GY</note>
+      </trans-unit>
+      <trans-unit id="Haiti">
+        <source>Haiti</source>
+        <note>ISO 3166-1 HT</note>
+      </trans-unit>
+      <trans-unit id="Heard &amp; McDonald Islands">
+        <source>Heard &amp; McDonald Islands</source>
+        <note>ISO 3166-1 HM</note>
+      </trans-unit>
+      <trans-unit id="Honduras">
+        <source>Honduras</source>
+        <note>ISO 3166-1 HN</note>
+      </trans-unit>
+      <trans-unit id="Hong Kong SAR China">
+        <source>Hong Kong SAR China</source>
+        <note>ISO 3166-1 HK</note>
+      </trans-unit>
+      <trans-unit id="Hungary">
+        <source>Hungary</source>
+        <note>ISO 3166-1 HU</note>
+      </trans-unit>
+      <trans-unit id="Iceland">
+        <source>Iceland</source>
+        <note>ISO 3166-1 IS</note>
+      </trans-unit>
+      <trans-unit id="India">
+        <source>India</source>
+        <note>ISO 3166-1 IN</note>
+      </trans-unit>
+      <trans-unit id="Indonesia">
+        <source>Indonesia</source>
+        <note>ISO 3166-1 ID</note>
+      </trans-unit>
+      <trans-unit id="Iran">
+        <source>Iran</source>
+        <note>ISO 3166-1 IR</note>
+      </trans-unit>
+      <trans-unit id="Iraq">
+        <source>Iraq</source>
+        <note>ISO 3166-1 IQ</note>
+      </trans-unit>
+      <trans-unit id="Ireland">
+        <source>Ireland</source>
+        <note>ISO 3166-1 IE</note>
+      </trans-unit>
+      <trans-unit id="Isle of Man">
+        <source>Isle of Man</source>
+        <note>ISO 3166-1 IM</note>
+      </trans-unit>
+      <trans-unit id="Israel">
+        <source>Israel</source>
+        <note>ISO 3166-1 IL</note>
+      </trans-unit>
+      <trans-unit id="Italy">
+        <source>Italy</source>
+        <note>ISO 3166-1 IT</note>
+      </trans-unit>
+      <trans-unit id="Jamaica">
+        <source>Jamaica</source>
+        <note>ISO 3166-1 JM</note>
+      </trans-unit>
+      <trans-unit id="Japan">
+        <source>Japan</source>
+        <note>ISO 3166-1 JP</note>
+      </trans-unit>
+      <trans-unit id="Jersey">
+        <source>Jersey</source>
+        <note>ISO 3166-1 JE</note>
+      </trans-unit>
+      <trans-unit id="Jordan">
+        <source>Jordan</source>
+        <note>ISO 3166-1 JO</note>
+      </trans-unit>
+      <trans-unit id="Kazakhstan">
+        <source>Kazakhstan</source>
+        <note>ISO 3166-1 KZ</note>
+      </trans-unit>
+      <trans-unit id="Kenya">
+        <source>Kenya</source>
+        <note>ISO 3166-1 KE</note>
+      </trans-unit>
+      <trans-unit id="Kiribati">
+        <source>Kiribati</source>
+        <note>ISO 3166-1 KI</note>
+      </trans-unit>
+      <trans-unit id="Kuwait">
+        <source>Kuwait</source>
+        <note>ISO 3166-1 KW</note>
+      </trans-unit>
+      <trans-unit id="Kyrgyzstan">
+        <source>Kyrgyzstan</source>
+        <note>ISO 3166-1 KG</note>
+      </trans-unit>
+      <trans-unit id="Laos">
+        <source>Laos</source>
+        <note>ISO 3166-1 LA</note>
+      </trans-unit>
+      <trans-unit id="Latvia">
+        <source>Latvia</source>
+        <note>ISO 3166-1 LV</note>
+      </trans-unit>
+      <trans-unit id="Lebanon">
+        <source>Lebanon</source>
+        <note>ISO 3166-1 LB</note>
+      </trans-unit>
+      <trans-unit id="Lesotho">
+        <source>Lesotho</source>
+        <note>ISO 3166-1 LS</note>
+      </trans-unit>
+      <trans-unit id="Liberia">
+        <source>Liberia</source>
+        <note>ISO 3166-1 LR</note>
+      </trans-unit>
+      <trans-unit id="Libya">
+        <source>Libya</source>
+        <note>ISO 3166-1 LY</note>
+      </trans-unit>
+      <trans-unit id="Liechtenstein">
+        <source>Liechtenstein</source>
+        <note>ISO 3166-1 LI</note>
+      </trans-unit>
+      <trans-unit id="Lithuania">
+        <source>Lithuania</source>
+        <note>ISO 3166-1 LT</note>
+      </trans-unit>
+      <trans-unit id="Luxembourg">
+        <source>Luxembourg</source>
+        <note>ISO 3166-1 LU</note>
+      </trans-unit>
+      <trans-unit id="Macau SAR China">
+        <source>Macau SAR China</source>
+        <note>ISO 3166-1 MO</note>
+      </trans-unit>
+      <trans-unit id="Macedonia">
+        <source>Macedonia</source>
+        <note>ISO 3166-1 MK</note>
+      </trans-unit>
+      <trans-unit id="Madagascar">
+        <source>Madagascar</source>
+        <note>ISO 3166-1 MG</note>
+      </trans-unit>
+      <trans-unit id="Malawi">
+        <source>Malawi</source>
+        <note>ISO 3166-1 MW</note>
+      </trans-unit>
+      <trans-unit id="Malaysia">
+        <source>Malaysia</source>
+        <note>ISO 3166-1 MY</note>
+      </trans-unit>
+      <trans-unit id="Maldives">
+        <source>Maldives</source>
+        <note>ISO 3166-1 MV</note>
+      </trans-unit>
+      <trans-unit id="Mali">
+        <source>Mali</source>
+        <note>ISO 3166-1 ML</note>
+      </trans-unit>
+      <trans-unit id="Malta">
+        <source>Malta</source>
+        <note>ISO 3166-1 MT</note>
+      </trans-unit>
+      <trans-unit id="Marshall Islands">
+        <source>Marshall Islands</source>
+        <note>ISO 3166-1 MH</note>
+      </trans-unit>
+      <trans-unit id="Martinique">
+        <source>Martinique</source>
+        <note>ISO 3166-1 MQ</note>
+      </trans-unit>
+      <trans-unit id="Mauritania">
+        <source>Mauritania</source>
+        <note>ISO 3166-1 MR</note>
+      </trans-unit>
+      <trans-unit id="Mauritius">
+        <source>Mauritius</source>
+        <note>ISO 3166-1 MU</note>
+      </trans-unit>
+      <trans-unit id="Mayotte">
+        <source>Mayotte</source>
+        <note>ISO 3166-1 YT</note>
+      </trans-unit>
+      <trans-unit id="Mexico">
+        <source>Mexico</source>
+        <note>ISO 3166-1 MX</note>
+      </trans-unit>
+      <trans-unit id="Micronesia">
+        <source>Micronesia</source>
+        <note>ISO 3166-1 FM</note>
+      </trans-unit>
+      <trans-unit id="Moldova">
+        <source>Moldova</source>
+        <note>ISO 3166-1 MD</note>
+      </trans-unit>
+      <trans-unit id="Monaco">
+        <source>Monaco</source>
+        <note>ISO 3166-1 MC</note>
+      </trans-unit>
+      <trans-unit id="Mongolia">
+        <source>Mongolia</source>
+        <note>ISO 3166-1 MN</note>
+      </trans-unit>
+      <trans-unit id="Montenegro">
+        <source>Montenegro</source>
+        <note>ISO 3166-1 ME</note>
+      </trans-unit>
+      <trans-unit id="Montserrat">
+        <source>Montserrat</source>
+        <note>ISO 3166-1 MS</note>
+      </trans-unit>
+      <trans-unit id="Morocco">
+        <source>Morocco</source>
+        <note>ISO 3166-1 MA</note>
+      </trans-unit>
+      <trans-unit id="Mozambique">
+        <source>Mozambique</source>
+        <note>ISO 3166-1 MZ</note>
+      </trans-unit>
+      <trans-unit id="Myanmar (Burma)">
+        <source>Myanmar (Burma)</source>
+        <note>ISO 3166-1 MM</note>
+      </trans-unit>
+      <trans-unit id="Namibia">
+        <source>Namibia</source>
+        <note>ISO 3166-1 NA</note>
+      </trans-unit>
+      <trans-unit id="Nauru">
+        <source>Nauru</source>
+        <note>ISO 3166-1 NR</note>
+      </trans-unit>
+      <trans-unit id="Nepal">
+        <source>Nepal</source>
+        <note>ISO 3166-1 NP</note>
+      </trans-unit>
+      <trans-unit id="Netherlands">
+        <source>Netherlands</source>
+        <note>ISO 3166-1 NL</note>
+      </trans-unit>
+      <trans-unit id="New Caledonia">
+        <source>New Caledonia</source>
+        <note>ISO 3166-1 NC</note>
+      </trans-unit>
+      <trans-unit id="New Zealand">
+        <source>New Zealand</source>
+        <note>ISO 3166-1 NZ</note>
+      </trans-unit>
+      <trans-unit id="Nicaragua">
+        <source>Nicaragua</source>
+        <note>ISO 3166-1 NI</note>
+      </trans-unit>
+      <trans-unit id="Niger">
+        <source>Niger</source>
+        <note>ISO 3166-1 NE</note>
+      </trans-unit>
+      <trans-unit id="Nigeria">
+        <source>Nigeria</source>
+        <note>ISO 3166-1 NG</note>
+      </trans-unit>
+      <trans-unit id="Niue">
+        <source>Niue</source>
+        <note>ISO 3166-1 NU</note>
+      </trans-unit>
+      <trans-unit id="Norfolk Island">
+        <source>Norfolk Island</source>
+        <note>ISO 3166-1 NF</note>
+      </trans-unit>
+      <trans-unit id="North Korea">
+        <source>North Korea</source>
+        <note>ISO 3166-1 KP</note>
+      </trans-unit>
+      <trans-unit id="Northern Mariana Islands">
+        <source>Northern Mariana Islands</source>
+        <note>ISO 3166-1 MP</note>
+      </trans-unit>
+      <trans-unit id="Norway">
+        <source>Norway</source>
+        <note>ISO 3166-1 NO</note>
+      </trans-unit>
+      <trans-unit id="Oman">
+        <source>Oman</source>
+        <note>ISO 3166-1 OM</note>
+      </trans-unit>
+      <trans-unit id="Pakistan">
+        <source>Pakistan</source>
+        <note>ISO 3166-1 PK</note>
+      </trans-unit>
+      <trans-unit id="Palau">
+        <source>Palau</source>
+        <note>ISO 3166-1 PW</note>
+      </trans-unit>
+      <trans-unit id="Palestinian Territories">
+        <source>Palestinian Territories</source>
+        <note>ISO 3166-1 PS</note>
+      </trans-unit>
+      <trans-unit id="Panama">
+        <source>Panama</source>
+        <note>ISO 3166-1 PA</note>
+      </trans-unit>
+      <trans-unit id="Papua New Guinea">
+        <source>Papua New Guinea</source>
+        <note>ISO 3166-1 PG</note>
+      </trans-unit>
+      <trans-unit id="Paraguay">
+        <source>Paraguay</source>
+        <note>ISO 3166-1 PY</note>
+      </trans-unit>
+      <trans-unit id="Peru">
+        <source>Peru</source>
+        <note>ISO 3166-1 PE</note>
+      </trans-unit>
+      <trans-unit id="Philippines">
+        <source>Philippines</source>
+        <note>ISO 3166-1 PH</note>
+      </trans-unit>
+      <trans-unit id="Pitcairn Islands">
+        <source>Pitcairn Islands</source>
+        <note>ISO 3166-1 PN</note>
+      </trans-unit>
+      <trans-unit id="Poland">
+        <source>Poland</source>
+        <note>ISO 3166-1 PL</note>
+      </trans-unit>
+      <trans-unit id="Portugal">
+        <source>Portugal</source>
+        <note>ISO 3166-1 PT</note>
+      </trans-unit>
+      <trans-unit id="Puerto Rico">
+        <source>Puerto Rico</source>
+        <note>ISO 3166-1 PR</note>
+      </trans-unit>
+      <trans-unit id="Qatar">
+        <source>Qatar</source>
+        <note>ISO 3166-1 QA</note>
+      </trans-unit>
+      <trans-unit id="Réunion">
+        <source>Réunion</source>
+        <note>ISO 3166-1 RE</note>
+      </trans-unit>
+      <trans-unit id="Romania">
+        <source>Romania</source>
+        <note>ISO 3166-1 RO</note>
+      </trans-unit>
+      <trans-unit id="Russia">
+        <source>Russia</source>
+        <note>ISO 3166-1 RU</note>
+      </trans-unit>
+      <trans-unit id="Rwanda">
+        <source>Rwanda</source>
+        <note>ISO 3166-1 RW</note>
+      </trans-unit>
+      <trans-unit id="Samoa">
+        <source>Samoa</source>
+        <note>ISO 3166-1 WS</note>
+      </trans-unit>
+      <trans-unit id="San Marino">
+        <source>San Marino</source>
+        <note>ISO 3166-1 SM</note>
+      </trans-unit>
+      <trans-unit id="Saudi Arabia">
+        <source>Saudi Arabia</source>
+        <note>ISO 3166-1 SA</note>
+      </trans-unit>
+      <trans-unit id="São Tomé &amp; Príncipe">
+        <source>São Tomé &amp; Príncipe</source>
+        <note>ISO 3166-1 ST</note>
+      </trans-unit>
+      <trans-unit id="Senegal">
+        <source>Senegal</source>
+        <note>ISO 3166-1 SN</note>
+      </trans-unit>
+      <trans-unit id="Serbia">
+        <source>Serbia</source>
+        <note>ISO 3166-1 RS</note>
+      </trans-unit>
+      <trans-unit id="Seychelles">
+        <source>Seychelles</source>
+        <note>ISO 3166-1 SC</note>
+      </trans-unit>
+      <trans-unit id="Sierra Leone">
+        <source>Sierra Leone</source>
+        <note>ISO 3166-1 SL</note>
+      </trans-unit>
+      <trans-unit id="Singapore">
+        <source>Singapore</source>
+        <note>ISO 3166-1 SG</note>
+      </trans-unit>
+      <trans-unit id="Sint Maarten">
+        <source>Sint Maarten</source>
+        <note>ISO 3166-1 SX</note>
+      </trans-unit>
+      <trans-unit id="Slovakia">
+        <source>Slovakia</source>
+        <note>ISO 3166-1 SK</note>
+      </trans-unit>
+      <trans-unit id="Slovenia">
+        <source>Slovenia</source>
+        <note>ISO 3166-1 SI</note>
+      </trans-unit>
+      <trans-unit id="So. Georgia &amp; So. Sandwich Isl.">
+        <source>So. Georgia &amp; So. Sandwich Isl.</source>
+        <note>ISO 3166-1 GS</note>
+      </trans-unit>
+      <trans-unit id="Solomon Islands">
+        <source>Solomon Islands</source>
+        <note>ISO 3166-1 SB</note>
+      </trans-unit>
+      <trans-unit id="Somalia">
+        <source>Somalia</source>
+        <note>ISO 3166-1 SO</note>
+      </trans-unit>
+      <trans-unit id="South Africa">
+        <source>South Africa</source>
+        <note>ISO 3166-1 ZA</note>
+      </trans-unit>
+      <trans-unit id="South Korea">
+        <source>South Korea</source>
+        <note>ISO 3166-1 KR</note>
+      </trans-unit>
+      <trans-unit id="South Sudan">
+        <source>South Sudan</source>
+        <note>ISO 3166-1 SS</note>
+      </trans-unit>
+      <trans-unit id="Spain">
+        <source>Spain</source>
+        <note>ISO 3166-1 ES</note>
+      </trans-unit>
+      <trans-unit id="Sri Lanka">
+        <source>Sri Lanka</source>
+        <note>ISO 3166-1 LK</note>
+      </trans-unit>
+      <trans-unit id="St. Barthélemy">
+        <source>St. Barthélemy</source>
+        <note>ISO 3166-1 BL</note>
+      </trans-unit>
+      <trans-unit id="St. Helena">
+        <source>St. Helena</source>
+        <note>ISO 3166-1 SH</note>
+      </trans-unit>
+      <trans-unit id="St. Kitts &amp; Nevis">
+        <source>St. Kitts &amp; Nevis</source>
+        <note>ISO 3166-1 KN</note>
+      </trans-unit>
+      <trans-unit id="St. Lucia">
+        <source>St. Lucia</source>
+        <note>ISO 3166-1 LC</note>
+      </trans-unit>
+      <trans-unit id="St. Martin">
+        <source>St. Martin</source>
+        <note>ISO 3166-1 MF</note>
+      </trans-unit>
+      <trans-unit id="St. Pierre &amp; Miquelon">
+        <source>St. Pierre &amp; Miquelon</source>
+        <note>ISO 3166-1 PM</note>
+      </trans-unit>
+      <trans-unit id="St. Vincent &amp; Grenadines">
+        <source>St. Vincent &amp; Grenadines</source>
+        <note>ISO 3166-1 VC</note>
+      </trans-unit>
+      <trans-unit id="Sudan">
+        <source>Sudan</source>
+        <note>ISO 3166-1 SD</note>
+      </trans-unit>
+      <trans-unit id="Suriname">
+        <source>Suriname</source>
+        <note>ISO 3166-1 SR</note>
+      </trans-unit>
+      <trans-unit id="Svalbard &amp; Jan Mayen">
+        <source>Svalbard &amp; Jan Mayen</source>
+        <note>ISO 3166-1 SJ</note>
+      </trans-unit>
+      <trans-unit id="Swaziland">
+        <source>Swaziland</source>
+        <note>ISO 3166-1 SZ</note>
+      </trans-unit>
+      <trans-unit id="Sweden">
+        <source>Sweden</source>
+        <note>ISO 3166-1 SE</note>
+      </trans-unit>
+      <trans-unit id="Switzerland">
+        <source>Switzerland</source>
+        <note>ISO 3166-1 CH</note>
+      </trans-unit>
+      <trans-unit id="Syria">
+        <source>Syria</source>
+        <note>ISO 3166-1 SY</note>
+      </trans-unit>
+      <trans-unit id="Taiwan">
+        <source>Taiwan</source>
+        <note>ISO 3166-1 TW</note>
+      </trans-unit>
+      <trans-unit id="Tajikistan">
+        <source>Tajikistan</source>
+        <note>ISO 3166-1 TJ</note>
+      </trans-unit>
+      <trans-unit id="Tanzania">
+        <source>Tanzania</source>
+        <note>ISO 3166-1 TZ</note>
+      </trans-unit>
+      <trans-unit id="Thailand">
+        <source>Thailand</source>
+        <note>ISO 3166-1 TH</note>
+      </trans-unit>
+      <trans-unit id="Timor-Leste">
+        <source>Timor-Leste</source>
+        <note>ISO 3166-1 TL</note>
+      </trans-unit>
+      <trans-unit id="Togo">
+        <source>Togo</source>
+        <note>ISO 3166-1 TG</note>
+      </trans-unit>
+      <trans-unit id="Tokelau">
+        <source>Tokelau</source>
+        <note>ISO 3166-1 TK</note>
+      </trans-unit>
+      <trans-unit id="Tonga">
+        <source>Tonga</source>
+        <note>ISO 3166-1 TO</note>
+      </trans-unit>
+      <trans-unit id="Trinidad &amp; Tobago">
+        <source>Trinidad &amp; Tobago</source>
+        <note>ISO 3166-1 TT</note>
+      </trans-unit>
+      <trans-unit id="Tunisia">
+        <source>Tunisia</source>
+        <note>ISO 3166-1 TN</note>
+      </trans-unit>
+      <trans-unit id="Turkey">
+        <source>Turkey</source>
+        <note>ISO 3166-1 TR</note>
+      </trans-unit>
+      <trans-unit id="Turkmenistan">
+        <source>Turkmenistan</source>
+        <note>ISO 3166-1 TM</note>
+      </trans-unit>
+      <trans-unit id="Turks &amp; Caicos Islands">
+        <source>Turks &amp; Caicos Islands</source>
+        <note>ISO 3166-1 TC</note>
+      </trans-unit>
+      <trans-unit id="Tuvalu">
+        <source>Tuvalu</source>
+        <note>ISO 3166-1 TV</note>
+      </trans-unit>
+      <trans-unit id="U.S. Outlying Islands">
+        <source>U.S. Outlying Islands</source>
+        <note>ISO 3166-1 UM</note>
+      </trans-unit>
+      <trans-unit id="U.S. Virgin Islands">
+        <source>U.S. Virgin Islands</source>
+        <note>ISO 3166-1 VI</note>
+      </trans-unit>
+      <trans-unit id="Uganda">
+        <source>Uganda</source>
+        <note>ISO 3166-1 UG</note>
+      </trans-unit>
+      <trans-unit id="Ukraine">
+        <source>Ukraine</source>
+        <note>ISO 3166-1 UA</note>
+      </trans-unit>
+      <trans-unit id="United Arab Emirates">
+        <source>United Arab Emirates</source>
+        <note>ISO 3166-1 AE</note>
+      </trans-unit>
+      <trans-unit id="United Kingdom">
+        <source>United Kingdom</source>
+        <note>ISO 3166-1 GB</note>
+      </trans-unit>
+      <trans-unit id="United States">
+        <source>United States</source>
+        <note>ISO 3166-1 US</note>
+      </trans-unit>
+      <trans-unit id="Uruguay">
+        <source>Uruguay</source>
+        <note>ISO 3166-1 UY</note>
+      </trans-unit>
+      <trans-unit id="Uzbekistan">
+        <source>Uzbekistan</source>
+        <note>ISO 3166-1 UZ</note>
+      </trans-unit>
+      <trans-unit id="Vanuatu">
+        <source>Vanuatu</source>
+        <note>ISO 3166-1 VU</note>
+      </trans-unit>
+      <trans-unit id="Vatican City">
+        <source>Vatican City</source>
+        <note>ISO 3166-1 VA</note>
+      </trans-unit>
+      <trans-unit id="Venezuela">
+        <source>Venezuela</source>
+        <note>ISO 3166-1 VE</note>
+      </trans-unit>
+      <trans-unit id="Vietnam">
+        <source>Vietnam</source>
+        <note>ISO 3166-1 VN</note>
+      </trans-unit>
+      <trans-unit id="Wallis &amp; Futuna">
+        <source>Wallis &amp; Futuna</source>
+        <note>ISO 3166-1 WF</note>
+      </trans-unit>
+      <trans-unit id="Western Sahara">
+        <source>Western Sahara</source>
+        <note>ISO 3166-1 EH</note>
+      </trans-unit>
+      <trans-unit id="Yemen">
+        <source>Yemen</source>
+        <note>ISO 3166-1 YE</note>
+      </trans-unit>
+      <trans-unit id="Zambia">
+        <source>Zambia</source>
+        <note>ISO 3166-1 ZM</note>
+      </trans-unit>
+      <trans-unit id="Zimbabwe">
+        <source>Zimbabwe</source>
+        <note>ISO 3166-1 ZW</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>Blu-ray Player</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>3.0</source>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright">
+        <source>Copyright © 2016-2017 Macgo International Limited. All rights reserved.</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="%d change(s) remaining">
+        <source>%d change(s) remaining</source>
+        <note>Blu-ray region changes remaining</note>
+      </trans-unit>
+      <trans-unit id="Add Subtitle File...">
+        <source>Add Subtitle File...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Angle %d">
+        <source>Angle %d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to unregister?">
+        <source>Are you sure you want to unregister?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BDAV playback is not supported in current version.">
+        <source>BDAV playback is not supported in current version.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change">
+        <source>Change</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change Region Code to %@?">
+        <source>Change Region Code to %@?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chapter %d">
+        <source>Chapter %d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chapter %d (%@)">
+        <source>Chapter %1$d (%2$@)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Click the lock to make changes.">
+        <source>Click the lock to make changes.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Click the lock to prevent further changes.">
+        <source>Click the lock to prevent further changes.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Currently not available">
+        <source>Currently not available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Style">
+        <source>Default Style</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disable Secondary Audio">
+        <source>Disable Secondary Audio</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disable Secondary Video">
+        <source>Disable Secondary Video</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disc content verification failed.">
+        <source>Disc content verification failed.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Drive authentication failed.">
+        <source>Drive authentication failed.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enable Secondary Audio">
+        <source>Enable Secondary Audio</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enable Secondary Video">
+        <source>Enable Secondary Video</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter Full Screen">
+        <source>Enter Full Screen</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Exit Full Screen">
+        <source>Exit Full Screen</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expiration date: %@">
+        <source>Expiration date: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to Save File">
+        <source>Failed to Save File</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to open Blu-ray contents.">
+        <source>Failed to open Blu-ray contents.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Subtitle">
+        <source>Hide Subtitle</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Key exchange failed.">
+        <source>Key exchange failed.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="None">
+        <source>None</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not Specified">
+        <source>Not Specified</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pause">
+        <source>Pause</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PiP Subtitles:">
+        <source>PiP Subtitles:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Play">
+        <source>Play</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Player is outdated to process the protected content.">
+        <source>Player is outdated to process the protected content.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please try another disc.">
+        <source>Please try another disc.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please try another optical drive.">
+        <source>Please try another optical drive.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please try unplugging and replugging the optical drive.">
+        <source>Please try unplugging and replugging the optical drive.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please update player to the latest version.">
+        <source>Please update player to the latest version.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please upgrade to macOS Sierra 10.12, or try another optical drive.">
+        <source>Please upgrade to macOS Sierra 10.12, or try another optical drive.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Register %@">
+        <source>Register %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Registered">
+        <source>Registered</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Registered to: %@">
+        <source>Registered to: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Registration Failed">
+        <source>Registration Failed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Registration Successful">
+        <source>Registration Successful</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save Offline File">
+        <source>Save Offline File</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="System Default">
+        <source>System Default</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for your support.">
+        <source>Thank you for your support.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The media content is not supported.">
+        <source>The media content is not supported.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The media type is not supported.">
+        <source>The media type is not supported.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The registration server returned an unexpected result.">
+        <source>The registration server returned an unexpected result.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The registration system is corrupted.">
+        <source>The registration system is corrupted.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was a problem opening the media.">
+        <source>There was a problem opening the media.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This action cannot be undone.">
+        <source>This action cannot be undone.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This operation is not available.">
+        <source>This operation is not available.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Title %d">
+        <source>Title %d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Title %d (%@)">
+        <source>Title %1$d (%2$@)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To finish unregistration, please visit\n%@\nand input the following request code:">
+        <source>To finish unregistration, please visit
+%@
+and input the following request code:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To get an offline registration code, please visit\n%@\nand input the following request code:">
+        <source>To get an offline registration code, please visit
+%@
+and input the following request code:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to connect to the registration server.">
+        <source>Unable to connect to the registration server.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown Language">
+        <source>Unknown Language</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown error. (%d)">
+        <source>Unknown error. (%d)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unregister">
+        <source>Unregister</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unregister %@">
+        <source>Unregister %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unregistered">
+        <source>Unregistered</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unregistration Failed">
+        <source>Unregistration Failed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="User Style %d">
+        <source>User Style %d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Version">
+        <source>Version</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Video %d">
+        <source>Video %d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visit Website">
+        <source>Visit Website</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You can only change the region %d more time(s).">
+        <source>You can only change the region %d more time(s).</source>
+        <note>Times range: 1 &lt;= %d &lt;=5</note>
+      </trans-unit>
+      <trans-unit id="You may continue by following the instructions in the offline file.">
+        <source>You may continue by following the instructions in the offline file.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your registration code has exceeded its limit.">
+        <source>Your registration code has exceeded its limit.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your registration code is blacklisted.">
+        <source>Your registration code is blacklisted.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your registration code is blocked.">
+        <source>Your registration code is blocked.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your registration code is expired.">
+        <source>Your registration code is expired.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your registration code is incorrect.">
+        <source>Your registration code is incorrect.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your registration code is invalid.">
+        <source>Your registration code is invalid.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your registration code is not found in server.">
+        <source>Your registration code is not found in server.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

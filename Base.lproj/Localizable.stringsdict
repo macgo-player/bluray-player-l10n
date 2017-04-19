@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>%d change(s) remaining</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@changes@</string>
+            <key>changes</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>zero</key>
+                <string>No changes remaining</string>
+                <key>one</key>
+                <string>One change remaining</string>
+                <key>other</key>
+                <string>%d changes remaining</string>
+            </dict>
+        </dict>
+        <key>You can only change the region %d more time(s).</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@changes@</string>
+            <key>changes</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>zero</key>
+                <string>You can not change the region.</string>
+                <key>one</key>
+                <string>You can only change the region one more time.</string>
+                <key>other</key>
+                <string>You can only change the region %d more times.</string>
+            </dict>
+        </dict>
+    </dict>
+</plist>
