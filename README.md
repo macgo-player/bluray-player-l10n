@@ -3,7 +3,7 @@ Localization files for Macgo Blu-ray Player
 
 ## XLIFF Files and Stringdict Files
 
-By following Apple's [Internationalization and Localization Guide][], this project contains a `.xliff` file for each language, and an optinal `.stringsdict` files for plural rules of each language.
+By following Apple's [Internationalization and Localization Guide][], this project contains a `.xliff` file for each language, and a `.stringsdict` file for the corresponding plural rule.
 
 - `[LanguageID].xliff`
 - `[LanguageID].lproj/Localizable.stringsdict`

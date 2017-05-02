@@ -483,9 +483,9 @@
         <note>Class = "NSMenuItem"; title = "Audio"; ObjectID = "C9K-6l-tTu";</note>
       </trans-unit>
       <trans-unit id="D0l-Jz-3ca.ibShadowedToolTip">
-        <source>Previous Point</source>
+        <source>Previous Chapter</source>
         <target>前へ</target>
-        <note>Class = "NSButton"; ibShadowedToolTip = "Previous Point"; ObjectID = "D0l-Jz-3ca";</note>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Previous Chapter"; ObjectID = "D0l-Jz-3ca";</note>
       </trans-unit>
       <trans-unit id="EQ4-aX-dKC.title">
         <source>None</source>
@@ -555,9 +555,9 @@ Remove Watermark</source>
         <note>Class = "NSMenuItem"; title = "None"; ObjectID = "qOI-L1-jHD";</note>
       </trans-unit>
       <trans-unit id="rae-sz-wlA.ibShadowedToolTip">
-        <source>Next Point</source>
+        <source>Next Chapter</source>
         <target>次へ</target>
-        <note>Class = "NSButton"; ibShadowedToolTip = "Next Point"; ObjectID = "rae-sz-wlA";</note>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Next Chapter"; ObjectID = "rae-sz-wlA";</note>
       </trans-unit>
       <trans-unit id="tCo-z1-V1f.ibShadowedToolTip">
         <source>Green</source>
@@ -4583,6 +4583,11 @@ Remove Watermark</source>
         <source>Key exchange failed.</source>
         <target>キーを交換できませんでした</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No changes remaining">
+        <source>No changes remaining</source>
+        <target>残りの変更はありません</target>
+        <note>Blu-ray region changes remaining</note>
       </trans-unit>
       <trans-unit id="None">
         <source>None</source>
