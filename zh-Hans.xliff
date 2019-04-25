@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Blu-ray Player/Base.lproj/Localizable.stringsdict" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="/%d change(s) remaining:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>%#@changes@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/%d change(s) remaining:dict/changes:dict/other:dict/:string">
+        <source>%d changes remaining</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/You can only change the region %d more time(s).:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>%#@changes@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/You can only change the region %d more time(s).:dict/changes:dict/other:dict/:string">
+        <source>You can only change the region %d more times.</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Blu-ray Player/Base.lproj/MainMenu.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="0B8-LJ-tVE.title">
@@ -105,6 +128,11 @@
         <target>前进 5 秒</target>
         <note>Class = "NSMenuItem"; title = "Skip Ahead 5 seconds"; ObjectID = "DnG-4G-O9h";</note>
       </trans-unit>
+      <trans-unit id="EOK-Dq-hwQ.title">
+        <source>Auto</source>
+        <target>自动</target>
+        <note>Class = "NSMenuItem"; title = "Auto"; ObjectID = "EOK-Dq-hwQ";</note>
+      </trans-unit>
       <trans-unit id="Exp-g0-ZIe.title">
         <source>None</source>
         <target>无</target>
@@ -115,6 +143,11 @@
         <target>第二视频</target>
         <note>Class = "NSMenu"; title = "Secondary Video"; ObjectID = "EyJ-U6-1N1";</note>
       </trans-unit>
+      <trans-unit id="FJ8-Pv-Qvw.title">
+        <source>No Profile</source>
+        <target>不使用描述文件</target>
+        <note>Class = "NSMenuItem"; title = "No Profile"; ObjectID = "FJ8-Pv-Qvw";</note>
+      </trans-unit>
       <trans-unit id="FJa-ma-JKO.title">
         <source>Virtual Remote</source>
         <target>虚拟遥控器</target>
@@ -124,6 +157,11 @@
         <source>Title</source>
         <target>标题</target>
         <note>Class = "NSMenu"; title = "Title"; ObjectID = "FPi-sZ-dhH";</note>
+      </trans-unit>
+      <trans-unit id="GUM-U0-zZw.title">
+        <source>Aspect Ratio</source>
+        <target>宽高比</target>
+        <note>Class = "NSMenuItem"; title = "Aspect Ratio"; ObjectID = "GUM-U0-zZw";</note>
       </trans-unit>
       <trans-unit id="ISx-y2-RTh.title">
         <source>Edit</source>
@@ -149,6 +187,11 @@
         <source>Services</source>
         <target>服务</target>
         <note>Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz";</note>
+      </trans-unit>
+      <trans-unit id="Nbu-7x-u5k.title">
+        <source>Keep Aspect Ratio</source>
+        <target>保持宽高比</target>
+        <note>Class = "NSMenuItem"; title = "Keep Aspect Ratio"; ObjectID = "Nbu-7x-u5k";</note>
       </trans-unit>
       <trans-unit id="Ngo-yd-SIx.title">
         <source>Subtitle</source>
@@ -250,6 +293,11 @@
         <target>打开…</target>
         <note>Class = "NSMenuItem"; title = "Open..."; ObjectID = "Was-JA-tGl";</note>
       </trans-unit>
+      <trans-unit id="WeZ-m7-lho.title">
+        <source>Auto</source>
+        <target>自动</target>
+        <note>Class = "NSMenuItem"; title = "Auto"; ObjectID = "WeZ-m7-lho";</note>
+      </trans-unit>
       <trans-unit id="XVa-hL-dsG.title">
         <source>Next Chapter</source>
         <target>下一章节</target>
@@ -315,6 +363,16 @@
         <target>服务</target>
         <note>Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5";</note>
       </trans-unit>
+      <trans-unit id="iOK-xh-Ya6.title">
+        <source>Aspect Ratio</source>
+        <target>宽高比</target>
+        <note>Class = "NSMenu"; title = "Aspect Ratio"; ObjectID = "iOK-xh-Ya6";</note>
+      </trans-unit>
+      <trans-unit id="l5V-f0-opi.title">
+        <source>Color Profile</source>
+        <target>颜色描述文件</target>
+        <note>Class = "NSMenuItem"; title = "Color Profile"; ObjectID = "l5V-f0-opi";</note>
+      </trans-unit>
       <trans-unit id="l8s-aE-gCQ.title">
         <source>Normal</source>
         <target>正常</target>
@@ -324,6 +382,11 @@
         <source>View</source>
         <target>显示</target>
         <note>Class = "NSMenuItem"; title = "View"; ObjectID = "lId-MD-Bgd";</note>
+      </trans-unit>
+      <trans-unit id="ljf-ot-GRn.title">
+        <source>Color Profile</source>
+        <target>颜色描述文件</target>
+        <note>Class = "NSMenu"; title = "Color Profile"; ObjectID = "ljf-ot-GRn";</note>
       </trans-unit>
       <trans-unit id="m3c-HM-j9h.title">
         <source>Audio</source>
@@ -384,6 +447,11 @@
         <source>%@</source>
         <target>%@</target>
         <note>Class = "NSMenu"; title = "%@"; ObjectID = "uQy-DD-JDr";</note>
+      </trans-unit>
+      <trans-unit id="vWl-S9-4n4.title">
+        <source>Auto (Gamma Boost)</source>
+        <target>自动（伽马增强）</target>
+        <note>Class = "NSMenuItem"; title = "Auto (Gamma Boost)"; ObjectID = "vWl-S9-4n4";</note>
       </trans-unit>
       <trans-unit id="w6w-qT-lmd.title">
         <source>Float on Top</source>
@@ -459,7 +527,7 @@
   </file>
   <file original="Blu-ray Player/Base.lproj/MainWindow.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="5HI-XN-OYh.title">
@@ -506,6 +574,11 @@
         <source>None</source>
         <target>无</target>
         <note>Class = "NSMenuItem"; title = "None"; ObjectID = "NJg-kq-zbU";</note>
+      </trans-unit>
+      <trans-unit id="OFA-Cg-669.title">
+        <source>This operation is not currently available.</source>
+        <target>该操作目前不可用</target>
+        <note>Class = "NSTextFieldCell"; title = "This operation is not currently available."; ObjectID = "OFA-Cg-669";</note>
       </trans-unit>
       <trans-unit id="Tr8-N3-QIH.title">
         <source>Menu</source>
@@ -593,7 +666,7 @@ Remove Watermark</source>
   </file>
   <file original="Blu-ray Player/Base.lproj/OpenURL.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="4gj-tz-tjF.title">
@@ -620,7 +693,7 @@ Remove Watermark</source>
   </file>
   <file original="Blu-ray Player/Base.lproj/Preferences.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="2ST-pu-FZJ.title">
@@ -637,6 +710,11 @@ Remove Watermark</source>
         <source>MPEG-4 AVC</source>
         <target>MPEG-4 AVC</target>
         <note>Class = "NSButtonCell"; title = "MPEG-4 AVC"; ObjectID = "7nv-ZM-SZm";</note>
+      </trans-unit>
+      <trans-unit id="8yO-5m-WfO.title">
+        <source>Clear local storage</source>
+        <target>清空本地存储</target>
+        <note>Class = "NSButtonCell"; title = "Clear local storage"; ObjectID = "8yO-5m-WfO";</note>
       </trans-unit>
       <trans-unit id="9Bg-Jf-aUF.title">
         <source>Check for updates:</source>
@@ -882,7 +960,7 @@ Remove Watermark</source>
   </file>
   <file original="Blu-ray Player/Base.lproj/Register.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="1zO-U9-MPn.title">
@@ -909,7 +987,7 @@ Remove Watermark</source>
   </file>
   <file original="Blu-ray Player/Base.lproj/Remote.xib" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="0zj-PU-DYc.ibShadowedToolTip">
@@ -1019,9 +1097,24 @@ Remove Watermark</source>
       </trans-unit>
     </body>
   </file>
-  <file original="Blu-ray Player/ISO639.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file original="Blu-ray Player/en.lproj/InfoPlist.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>Blu-ray Player</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright">
+        <source>Copyright © 2016-2017 Macgo International Limited. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Blu-ray Player/en.lproj/ISO639.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="Abkhazian">
@@ -3176,9 +3269,9 @@ Remove Watermark</source>
       </trans-unit>
     </body>
   </file>
-  <file original="Blu-ray Player/ISO3166.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file original="Blu-ray Player/en.lproj/ISO3166.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="Afghanistan">
@@ -4428,25 +4521,9 @@ Remove Watermark</source>
       </trans-unit>
     </body>
   </file>
-  <file original="Blu-ray Player/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+  <file original="Blu-ray Player/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName">
-        <source>Blu-ray Player</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>3.0</source>
-      </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright">
-        <source>Copyright © 2016-2017 Macgo International Limited. All rights reserved.</source>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Blu-ray Player/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
     </header>
     <body>
       <trans-unit id="%d change(s) remaining">
@@ -4454,9 +4531,24 @@ Remove Watermark</source>
         <target>剩余 %d 次更改</target>
         <note>Blu-ray region changes remaining</note>
       </trans-unit>
+      <trans-unit id="AACS protection on media other than optical disc is not supported. Please try to play the original disc from an optical drive.">
+        <source>AACS protection on media other than optical disc is not supported. Please try to play the original disc from an optical drive.</source>
+        <target>不支持非光盘介质上的 AACS 保护。请尝试通过光驱播放原始光盘。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Add Subtitle File...">
         <source>Add Subtitle File...</source>
         <target>添加字幕文件…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All contents in local storage have been deleted successfully.">
+        <source>All contents in local storage have been deleted successfully.</source>
+        <target>本地存储中所有内容已成功删除。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occurred while reading or verifying files. If this issue only occurs randomly, it might be caused by insufficient power to your optical drive. Please try to connect the optical drive directly to your computer. If this issue persists, please try another disc.">
+        <source>An error occurred while reading or verifying files. If this issue only occurs randomly, it might be caused by insufficient power to your optical drive. Please try to connect the optical drive directly to your computer. If this issue persists, please try another disc.</source>
+        <target>读取或校验文件时发生读取错误。如果该问题只是随机出现，那么有可能是由于光驱供电不足导致。请尝试将光驱直接与电脑连接。如果问题依旧，请换张盘试试。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Angle %d">
@@ -4471,7 +4563,7 @@ Remove Watermark</source>
       </trans-unit>
       <trans-unit id="BDAV playback is not supported in current version.">
         <source>BDAV playback is not supported in current version.</source>
-        <target>当前版本不支持BDAV播放</target>
+        <target>当前版本不支持 BDAV 播放。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel">
@@ -4514,6 +4606,11 @@ Remove Watermark</source>
         <target>当前不可用</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="DVD playback is not supported in current version.">
+        <source>DVD playback is not supported in current version.</source>
+        <target>当前版本不支持 DVD 播放。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Default Style">
         <source>Default Style</source>
         <target>默认样式</target>
@@ -4529,14 +4626,19 @@ Remove Watermark</source>
         <target>禁用第二视频</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Disc content verification failed.">
-        <source>Disc content verification failed.</source>
-        <target>盘片内容校验失败。</target>
+      <trans-unit id="Disc content is revoked.">
+        <source>Disc content is revoked.</source>
+        <target>光盘内容已被吊销。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Drive authentication failed.">
-        <source>Drive authentication failed.</source>
-        <target>驱动器验证失败。</target>
+      <trans-unit id="Disc content may be corrupted.">
+        <source>Disc content may be corrupted.</source>
+        <target>光盘内容可能已损坏。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disc playback should be stopped before continuing.">
+        <source>Disc playback should be stopped before continuing.</source>
+        <target>请停止播放盘片后再继续操作。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enable Secondary Audio">
@@ -4569,6 +4671,11 @@ Remove Watermark</source>
         <target>保存文件失败</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Failed to clear local storage.">
+        <source>Failed to clear local storage.</source>
+        <target>清空本地存储失败。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Failed to open Blu-ray contents.">
         <source>Failed to open Blu-ray contents.</source>
         <target>打开蓝光内容失败。</target>
@@ -4579,13 +4686,29 @@ Remove Watermark</source>
         <target>隐藏字幕</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="If this issue always occurs and prevents playback of any Blu-ray discs, it is most likely that your optical drive is not AACS compliant. You may have to try another optical drive.">
+        <source>If this issue always occurs and prevents playback of any Blu-ray discs, it is most likely that your optical drive is not AACS compliant. You may have to try another optical drive.</source>
+        <target>如果该问题总是出现，导致无法播放任何蓝光盘，那么您的光驱很可能不符合 AACS 规范。您可能需要尝试另一款光驱。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Key exchange failed.">
         <source>Key exchange failed.</source>
         <target>密匙交换失败。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Local storage cleared.">
+        <source>Local storage cleared.</source>
+        <target>本地存储已清空。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Media file playback is not supported in current version.">
+        <source>Media file playback is not supported in current version.</source>
+        <target>当前版本不支持媒体文件播放。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="No changes remaining">
         <source>No changes remaining</source>
+        <target>修改次数已用完</target>
         <note>Blu-ray region changes remaining</note>
       </trans-unit>
       <trans-unit id="None">
@@ -4618,9 +4741,9 @@ Remove Watermark</source>
         <target>播放</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Player is outdated to process the protected content.">
-        <source>Player is outdated to process the protected content.</source>
-        <target>播放器版本太旧，无法读取被保护的内容。</target>
+      <trans-unit id="Player is outdated.">
+        <source>Player is outdated.</source>
+        <target>播放器版本过旧。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please try another disc.">
@@ -4628,24 +4751,9 @@ Remove Watermark</source>
         <target>请换张盘试试。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Please try another optical drive.">
-        <source>Please try another optical drive.</source>
-        <target>请换个光驱试试。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Please try unplugging and replugging the optical drive.">
-        <source>Please try unplugging and replugging the optical drive.</source>
-        <target>请讲光驱拔下后重新插入试试。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Please update player to the latest version.">
-        <source>Please update player to the latest version.</source>
-        <target>请将播放器更新到最新版本。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Please upgrade to macOS Sierra 10.12, or try another optical drive.">
-        <source>Please upgrade to macOS Sierra 10.12, or try another optical drive.</source>
-        <target>请升级到 macOS Sierra 10.12，或尝试另一款光驱。</target>
+      <trans-unit id="Please upgrade to macOS Sierra 10.12 or later. Current macOS version has a compatibility issue with some optical drives.">
+        <source>Please upgrade to macOS Sierra 10.12 or later. Current macOS version has a compatibility issue with some optical drives.</source>
+        <target>请升级至 macOS Sierra 10.12 或更高版本。当前 macOS 版本与某些光驱存在兼容性问题。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Register %@">
@@ -4678,6 +4786,11 @@ Remove Watermark</source>
         <target>保存离线文件</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Some contents were not successfully deleted.">
+        <source>Some contents were not successfully deleted.</source>
+        <target>某些内容无法成功删除。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="System Default">
         <source>System Default</source>
         <target>系统默认</target>
@@ -4688,9 +4801,9 @@ Remove Watermark</source>
         <target>感谢您的支持。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="The media content is not supported.">
-        <source>The media content is not supported.</source>
-        <target>不支持该媒体内容。</target>
+      <trans-unit id="The certificate of your optical drive is revoked. You may need to update the firmware of your optical drive.">
+        <source>The certificate of your optical drive is revoked. You may need to update the firmware of your optical drive.</source>
+        <target>您的光驱的证书已被吊销。您可能需要更新光驱的固件。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The media type is not supported.">
@@ -4723,6 +4836,16 @@ Remove Watermark</source>
         <target>该操作无法进行。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="This player app is outdated and unable to authenticate with your optical drive. Please update it to the latest version.">
+        <source>This player app is outdated and unable to authenticate with your optical drive. Please update it to the latest version.</source>
+        <target>本播放器版本过旧，无法与光驱完成验证。请更新至最新版本。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This player app is outdated and unable to process the protected content. Please update it to the latest version.">
+        <source>This player app is outdated and unable to process the protected content. Please update it to the latest version.</source>
+        <target>本播放器版本过旧，无法读取被保护的内容。请更新至最新版本。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Title %d">
         <source>Title %d</source>
         <target>标题 %d</target>
@@ -4733,7 +4856,7 @@ Remove Watermark</source>
         <target>标题 %1$d（%2$@）</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="To finish unregistration, please visit\n%@\nand input the following request code:">
+      <trans-unit id="To finish unregistration, please visit&#10;%@&#10;and input the following request code:">
         <source>To finish unregistration, please visit
 %@
 and input the following request code:</source>
@@ -4742,13 +4865,18 @@ and input the following request code:</source>
 输入下方请求码，以取消注册：</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="To get an offline registration code, please visit\n%@\nand input the following request code:">
+      <trans-unit id="To get an offline registration code, please visit&#10;%@&#10;and input the following request code:">
         <source>To get an offline registration code, please visit
 %@
 and input the following request code:</source>
         <target>访问网址：
 %@
 输入下方请求码，以获取离线注册码：</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ultra HD Blu-ray disc is not supported in current version.">
+        <source>Ultra HD Blu-ray disc is not supported in current version.</source>
+        <target>当前版本不支持 Ultra HD Blu-ray 播放。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to connect to the registration server.">
@@ -4778,12 +4906,17 @@ and input the following request code:</source>
       </trans-unit>
       <trans-unit id="Unregistered">
         <source>Unregistered</source>
-        <target>已取消注册</target>
+        <target>未注册</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unregistration Failed">
         <source>Unregistration Failed</source>
         <target>取消注册失败</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unsupported content protection.">
+        <source>Unsupported content protection.</source>
+        <target>不支持的内容保护方式。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="User Style %d">
